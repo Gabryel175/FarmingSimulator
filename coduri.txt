@@ -1,0 +1,25 @@
+<?php
+session_start();
+if (isset($_SESSION["logged_in"]) && $_SESSION["logged_in"] === true) {
+    echo '<br><a href="logout.php">Deconectare</a>';
+    echo "Bun venit, " . $_SESSION["username"] . "!";
+    
+} else {
+    echo "<a href='login.php'>Conectare</a>";
+    echo "<Br>";
+    echo "<a href='register.php'>register</a>";
+}
+?>
+===========================================================================
+<a href="#" class="link-hover" data-target="Tractoare"><img src="https://cdn-icons-png.flaticon.com/128/1112/1112402.png" alt="">Tractoare</a>
+    <a href="#" class="link-hover" data-target="Combine"><img src="https://cdn-icons-png.flaticon.com/128/517/517500.png" alt="">Combine</a>
+    <a href="#" class="link-hover" data-target="UtilajeSemanat"><img src="https://cdn-icons-png.flaticon.com/128/2853/2853165.png" alt="">Utilaje Semanat</a>
+    <a href="$" class="link-hover" data></a>
+    <a href="#" class="link-hover" data-target="UtilajeRecoltat"><img src="https://cdn-icons-png.flaticon.com/128/4634/4634860.png" alt="">Utilaje Recoltat/Ierboase</a>
+    <a href="#" class="link-hover" data-target="UtilajeFertilizat"><img src="https://cdn-icons-png.flaticon.com/128/1669/1669903.png" alt="">Utilaje Fertilizat</a>
+    <a href="#" class="link-hover" data-target="EchipamenteAnimale"><img src="https://cdn-icons-png.flaticon.com/128/672/672716.png" alt="">Echipamente Animale</a>
+    <a href="#" class="link-hover" data-target="EchipamenteForestiere"><img src="https://cdn-icons-png.flaticon.com/128/3353/3353143.png" alt="">Echipamente Forestiere</a>
+    <a href="#" class="link-hover" data-target="EchipamenteManipulare"><img src="https://cdn-icons-png.flaticon.com/128/3172/3172343.png" alt="">Echipamente Manipulare</a>
+    <a href="#" class="link-hover" data-target="Remorci"><img src="https://cdn-icons-png.flaticon.com/128/5113/5113972.png" alt="">Remorci</a>
+    <a href="#" class="link-hover" data-target="Masini"><img src="https://cdn-icons-png.flaticon.com/128/4634/4634590.png" alt="">Masini</a>
+    <a href="#" class="link-hover" data-target="Altele"><img src="https://cdn-icons-png.flaticon.com/128/10348/10348994.png" alt="">Altele</a>  
