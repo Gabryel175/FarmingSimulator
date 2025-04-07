@@ -1,0 +1,3775 @@
+
+{
+  "categorii" : [
+    {"categorie": "CombinaG"},
+    {"categorie": "CombinaF"},
+    {"categorie": "CombinaP"},
+    {"categorie": "CombinaB"},
+    {"categorie": "CombinaS"},
+    {"categorie": "CombinaC"},
+    {"categorie": "CombinaO"},
+    {"categorie": "Header"},
+    {"categorie": "CornHeader"},
+    {"categorie": "ForageHeader"},
+    {"categorie": "PotatoHeader"},
+    {"categorie": "BeetHeader"},
+    {"categorie": "SugarcaneHeader"},
+    {"categorie": "CottonHeader"},
+    {"categorie": "TrailerHeader"},
+    {"categorie": "Seeder"},
+    {"categorie": "Planter"},
+    {"categorie": "Cultivator"},
+    {"categorie": "Subsoiler"},
+    {"categorie": "Plow"},
+    {"categorie": "Disc"},
+    {"categorie": "PowerHarrow"},
+    {"categorie": "Seminte"},
+    {"categorie": "Balotiera"},
+    {"categorie": "BalotieraA"},
+    {"categorie": "Weeder"},
+    {"categorie": "GrasslandCare"},
+    {"categorie": "Mowers"},
+    {"categorie": "Teeder"},
+    {"categorie": "Windrower"},
+    {"categorie": "BaleLoaders"},
+    {"categorie": "BaleWrappers"},
+    {"categorie": "CropProtection"},
+    {"categorie": "SpreaderFertilizant"},
+    {"categorie": "Fertilizant"},
+    {"categorie": "Ierbicid"},
+    {"categorie": "Animals"},
+    {"categorie": "AnimalsTransport"},
+    {"categorie": "BuyAnimal"},
+    {"categorie": "AnimalsMachinery"},
+    {"categorie": "AnimalsBuilds"},
+    {"categorie": "SlurryTanks"},
+    {"categorie": "ForestryCutting"},
+    {"categorie": "ForestryTransporting"},
+    {"categorie": "ForestryChop"},
+    {"categorie": "ForestryTaf"},
+    {"categorie": "ForestryArm"},
+    {"categorie": "ForestryOther"},
+    {"categorie": "FrontLoaders"},
+    {"categorie": "FrontLoadersA"},
+    {"categorie": "WheelLoaders"},
+    {"categorie": "WheelLoadersA"},
+    {"categorie": "Telehanders"},
+    {"categorie": "TelehandersA"},
+    {"categorie": "Skidsteers"},
+    {"categorie": "SkidsteerA"},
+    {"categorie": "Forklifts"},
+    {"categorie": "Trailers"},
+    {"categorie": "AugerWagons"},
+    {"categorie": "ForageWagons"},
+    {"categorie": "LowLoaders"},
+    {"categorie": "CatB"},
+    {"categorie": "CatC"},
+    {"categorie": "Gabaritic"},
+    {"categorie": "Autobuz"},
+    {"categorie": ""},
+    {"categorie": ""},
+    {"categorie": ""}
+  ],
+  "branduri": [
+      {"denumire": "CaseIH", "pentru": "Tractoare,Combine,Headere,PrelucrareSol,Baler"},
+      {"denumire": "Claas", "pentru": "Tractoare,Manipulatoare,Combine,Headere,Remorci,Wagon,Baler"},
+      {"denumire": "Berthoud", "pentru": "UtilajeFertilizat"},
+      {"denumire": "AEBI", "pentru": "Baler"},
+      {"denumire": "Buhrer", "pentru": "Tractoare"},
+      {"denumire": "DeutzFahr", "pentru": "Tractoare,Combine,Headere"},
+      {"denumire": "Faresin", "pentru": "Animale,Manipulatoare"},
+      {"denumire": "Fendt", "pentru": "Tractoare,Combine,Headere,Baler"},
+      {"denumire": "Hardi", "pentru": "UtilajeFertilizat,Grape"},
+      {"denumire": "Iseki", "pentru": "Tractoare"},
+      {"denumire": "JCB", "pentru": "Tractoare,Manipulatoare"},
+      {"denumire": "JENZ", "pentru": "Forestry"},
+      {"denumire": "JohnDeere", "pentru": "Tractoare,Masini,Combine,Headere,UtilajeRecoltat,PrelucrareSol,Manipulatoare"},
+      {"denumire": "Jungheinrich", "pentru": "Manipulatoare"},
+      {"denumire": "Komatsu", "pentru": "Forestry"},
+      {"denumire": "Krone", "pentru": "UtilajeRecoltat,Remorci,Headere,Baler"},
+      {"denumire": "Kuhn", "pentru": "Animale,PrelucrareSol,UtilajeRecoltat,Baler"},
+      {"denumire": "Landini", "pentru": "Tractoare"},
+      {"denumire": "Linder", "pentru": "Tractoare"},
+      {"denumire": "Lizard", "pentru": "Masini,SugarcaneTech,Cotton,Animale,Benzi"},
+      {"denumire": "Mahindra", "pentru": "Masini"},
+      {"denumire": "Man", "pentru": "Masini"},
+      {"denumire": "Manitou", "pentru": "Manipulatoare"},
+      {"denumire": "MasseyFergusson", "pentru": "Tractoare,Combine,Headere,SugarcaneTech,Baler,"},
+      {"denumire": "McCormick", "pentru": "Tractoare"},
+      {"denumire": "New Holland", "pentru": "Tractoare,Manipulatoare,Combine,Grape,Headere,Olive,"},
+      {"denumire": "Ploeger", "pentru": "Animale"},
+      {"denumire": "Ponsse", "pentru": "Forestry"},
+      {"denumire": "Prinoth", "pentru": "Forestry,Altele"},
+      {"denumire": "Rigitrac", "pentru": "Tractoare"},
+      {"denumire": "Ropa", "pentru": "Altele,BeetTech,PotatoTech,Headere"},
+      {"denumire": "Rostselmash", "pentru": "Tractoare,Combine,Headere,PrelucrareSol"},
+      {"denumire": "Rottne", "pentru": "Forestry"},
+      {"denumire": "Schäffer", "pentru": "Manipulatoare"},
+      {"denumire": "Siloking", "pentru": "Animale"},
+      {"denumire": "Steyr", "pentru": "Tractoare"},
+      {"denumire": "Strautmann", "pentru": "Animale,Remorci,UtilajeFertilizat,Wagon"},
+      {"denumire": "Valtra", "pentru": "Tractoare"},
+      {"denumire": "Versatile", "pentru": "Tractoare"},
+      {"denumire": "Vervaet", "pentru": "Animale"},
+      {"denumire": "Zetor", "pentru": "Tractoare"},
+      {"denumire": "Abi", "pentru": "Animale"},
+      {"denumire": "AGCO", "pentru": "Tractoare" },
+      {"denumire": "Agrisem" , "pentru": "PrelucrareSol"},
+      {"denumire": "Agromasz", "pentru":"PrelucrareSol"},
+      {"denumire": "Albutt", "pentru":"Manipulatoare"},
+      {"denumire": "Alpego", "pentru":"PrelucrareSol"},
+      {"denumire": "Alpego", "pentru":"PrelucrareSol,UtilajeFertilizat,Altele"},
+      {"denumire": "Amity", "pentru":"Wagon"},
+      {"denumire": "AndersonGroup", "pentru":"Baler,Forestry,Animale"},
+      {"denumire": "Annaburger", "pentru":"Remorci"},
+      {"denumire": "APV", "pentru":"Baler"},
+      {"denumire": "Arcusin", "pentru":"Baler"},
+      {"denumire": "Bednar", "pentru":"Subsoiler"},
+      {"denumire": "Befa", "pentru":"Remorci"},
+      {"denumire": "Bergmann", "pentru":"Remorci,Wagon,UtilajeFertilizat"},
+      {"denumire": "BKT", "pentru": "Accesorii"},
+      {"denumire": "Bockmann", "pentru":"Animale,Altele"},
+      {"denumire": "Bomech", "pentru":"UtilajeFertilizat"},
+      {"denumire": "Continental", "pentru":"Accesorii"},
+      {"denumire": "Brantner", "pentru":"Remorci,UtilajeFertilizat"},
+      {"denumire": "Bredal", "pentru":"UtilajeFertilizat,Iarna"},
+      {"denumire": "Bremer", "pentru":"Remorci"},
+      {"denumire": "Briri", "pentru":"UtilajeFertilizat"},
+      {"denumire": "Capello", "pentru":"Headere"},
+      {"denumire": "Convey-All", "pentru":"Wagon,Benzi"},
+      {"denumire": "Corteva", "pentru":"Paleti"},
+      {"denumire": "Dalbo", "pentru":"Baler"},
+      {"denumire": "Damcon", "pentru":"Forestry"},
+      {"denumire": "Dagelman", "pentru":"Stone"},
+      {"denumire": "Demco", "pentru":"Remorci,Wagon"},
+      {"denumire": "Duvelsdorf", "pentru":"Accesorii,Baler"},
+      {"denumire": "Einbock", "pentru":"Baler"},
+      {"denumire": "Elho", "pentru":"Stone,UtilajeRecoltat"},
+      {"denumire": "Elmer", "pentru":"Wagon"},
+      {"denumire": "Farmax", "pentru":"Baler"},
+      {"denumire": "Farmet", "pentru":"PrelucrareSol"},
+      {"denumire": "Farmtech", "pentru":"Remorci,UtilajeFertilizat,Baler"},
+      {"denumire": "Fliegl", "pentru":"Remorci,UtilajeFertilizat,Baler,Forestry,Accesorii,Manipulatoare,Animale"},
+      {"denumire": "Fuhrmann", "pentru":"Grape"},
+      {"denumire": "Gessner", "pentru":"SugarcaneTech"},
+      {"denumire": "Grimme", "pentru":"PotatoTech,BeetTech,Benzi"},
+      {"denumire": "Hauer", "pentru":"Manipulatoare"},
+      {"denumire": "Hawe", "pentru":"Wagon,UtilajeFertilizat"},
+      {"denumire": "Heizomat", "pentru":"Forestry"},
+      {"denumire": "Holaras", "pentru":"Accesorii"},
+      {"denumire": "Helm", "pentru":"Paleti,Saci"},
+      {"denumire": "Horsch", "pentru":"PrelucrareSol"},
+      {"denumire": "Husqvarna", "pentru":"Forestry"},
+      {"denumire": "Jonsered", "pentru":"Forestry"},
+      {"denumire": "Joskin", "pentru":"Animale"},
+      {"denumire": "Karcher", "pentru":"Altele"},
+      {"denumire": "Kaweco", "pentru":"Remorci"},
+      {"denumire": "Kemper", "pentru":"Headere"},
+      {"denumire": "Kesla", "pentru":"Forestry"},
+      {"denumire": "Kingston", "pentru":"Animale"},
+      {"denumire": "Kinze", "pentru":"PrelucrareSol"},
+      {"denumire": "Kockerling", "pentru":"PrelucrareSol"},
+      {"denumire": "Kongsklide", "pentru":"UtilajeRecoltat"},
+      {"denumire": "GarantKotte", "pentru":"Animale"},
+      {"denumire": "Krampe", "pentru":"Remorci,Accesorii"},
+      {"denumire": "AgrolinerKroger", "pentru":"Remorci,Baler"},
+      {"denumire": "K+S", "pentru":"Paleti,Saci"},
+      {"denumire": "Kverneland", "pentru":"PrelucrareSol,Baler,UtilajeRecoltat"},
+      {"denumire": "Lemken", "pentru":"PrelucrareSol"},
+      {"denumire": "LodeKing", "pentru":"Remorci"},
+      {"denumire": "Mack", "pentru":"Masini"},
+      {"denumire": "Magsi", "pentru":"Manipulatoare"},
+      {"denumire": "McCulloch", "pentru":"Forestry"},
+      {"denumire": "Michelin", "pentru":"Accesorii"},
+      {"denumire": "Mitas", "pentru":"Accesorii"},
+      {"denumire": "Nardi", "pentru":"Headere"},
+      {"denumire": "Nokian", "pentru":"Accesorii"},
+      {"denumire": "Olofsfors", "pentru":"Accesorii"},
+      {"denumire": "Paladin", "pentru":"Manipulatoare"},
+      {"denumire": "Pioneer", "pentru":"Paleti"},
+      {"denumire": "Pottinger", "pentru":"PrelucrareSol,UtilajeRecoltat,Baler,Wagon"},
+      {"denumire": "ProvitaSupplements", "pentru":"Paleti"},
+      {"denumire": "Quicke", "pentru":"Manipulatoare"},
+      {"denumire": "Rudolph", "pentru":"Remorci"},
+      {"denumire": "Salek", "pentru":"Remorci,PrelucrareSol"},
+      {"denumire": "Samasz", "pentru":"Baler,Iarna"},
+      {"denumire": "Sumson", "pentru":"UtilajeFertilizat,Animale"},
+      {"denumire": "Schaumann", "pentru":"Paleti"},
+      {"denumire": "Schuitemaker", "pentru":"Wagon"},
+      {"denumire": "SeppKnusel", "pentru":"UtilajeRecoltat"},
+      {"denumire": "SIP", "pentru":"Baler"},
+      {"denumire": "Stihl", "pentru":"Forestry"},
+      {"denumire": "Tenwinkel", "pentru":"Tractoare"},
+      {"denumire": "Trelleborg", "pentru":"Accesorii"},
+      {"denumire": "TT", "pentru":"SugarcaneTech"},
+      {"denumire": "Vaderstad", "pentru":"PrelucrareSol"},
+      {"denumire": "Veenhuis", "pentru":"Animale"},
+      {"denumire": "Vredestein", "pentru":"Accesorii"},
+      {"denumire": "Walkabout", "pentru":"Wagon"},
+      {"denumire": "Welger", "pentru":"Remorci"},
+      {"denumire": "Wilson", "pentru":"Remorci,Animale"},
+      {"denumire": "Ziegler", "pentru":"Headere"},
+      {"denumire": "Zunhammer", "pentru":"Animale"},
+      {"denumire": "Hauer", "pentru": "Tractoare"},
+      {"denumire": "Abi", "pentru":"Animale"},
+      {"denumire": "Amazone" , "pentru": "PrelucrareSol,UtilajeFertilizat,Altele"}
+    ],      
+  "utilaje_joc" : [
+      {
+          "cod_produs" : "A3bK9",
+          "denumire" : "Maxxum",
+          "brand" : "CaseIH",
+          "categorie" : "SmallTractors",
+          "pentru" : "Tractoare",
+          "descriere": "145HP(power) , 50KM/H(SPEED)",
+          "pret" : "40000"
+      },
+      {
+          "cod_produs" : "XmP7q",
+          "denumire" : "Magnum AFG Connect",
+          "brand" : "CaseIH",
+          "categorie" : "MediumTractors",
+          "pentru" : "Tractoare",
+          "descriere" : "374HP(power) , 50KM/H(SPEED)",
+          "pret" : "52000"
+          
+      },
+      {
+          "cod_produs" : "8oLgR",
+          "denumire" : "Steiger Rowtrac AFS Connect Series",
+          "brand" : "CaseIH",
+          "categorie" : "LargeTractors",
+          "pentru" : "Tractoare",
+          "descriere" : "468HP(power) , 40KM/H(speed)",
+          "pret" : "73000"
+      },
+      {
+          "cod_produs" : "s2NpJ",
+          "denumire" : "Steiger Quadtrac AFS CONNECT SERIES",
+          "brand" : "CaseIH",
+          "categorie" : "LargeTractors",
+          "pentru" : "Tractoare",
+          "descriere" : "524HP(power) , 40KM/H(speed)",
+          "pret" : "80000"
+      },
+      {
+          "cod_produs" : "D1fG6",
+          "denumire" : "Steiger Wheeled AFS CONNECT SERIES",
+          "brand" : "CaseIH",
+          "categorie" : "LargeTractors",
+          "pentru" : "Tractoare",
+          "descriere" : "524HP(power) , 40KM/H(speed)",
+          "pret" : "84000"
+      },
+      {
+          "cod_produs" : "Y7cTz",
+          "denumire" : "MT700 SERIES",
+          "brand" : "Challenger",
+          "categorie" : "LargeTractors",
+          "pentru" : "Tractoare",
+          "descriere" : "380HP(power) , 40KM/H(speed)",
+          "pret" : "60000"
+      },
+      {
+          "cod_produs" : "H9mZ2",
+          "denumire" : "ARION 660-610",
+          "brand" : "Claas",
+          "categorie" : "SmallTractors",
+          "pentru" : "Tractoare",
+          "descriere" : "145HP(power) , 50KM/H(SPEED)",
+          "pret" : "37000"
+      },
+      {
+          "cod_produs" : "eR6aF",
+          "denumire" : "AXION 870-800",
+          "brand" : "Claas",
+          "categorie" : "MediumTractors",
+          "pentru" : "Tractoare",
+          "descriere" : "205HP,50KM/H",
+          "pret" : "42000"
+      },
+      {
+          "cod_produs" : "kP3hV",
+          "denumire" : "AXION 960-920",
+          "brand" : "Claas",
+          "categorie" : "LargeTractors",
+          "pentru" : "Tractoare",
+          "descriere" : "325HP , 50KM/H",
+          "pret" : "54000"
+      },
+      {
+          "cod_produs" : "G8lQw",
+          "denumire" : "AXION 960-920 TERRA",
+          "brand" : "Claas",
+          "categorie" : "LargeTractors",
+          "pentru" : "Tractoare",
+          "descriere" : "355HP , 40KM/H",
+          "pret" : "56500"
+      },
+      {
+          "cod_produs" : "T5yXn",
+          "denumire" : "XERION 5000-4500",
+          "brand" : "Claas",
+          "categorie" : "LargeTractors",
+          "pentru" : "Tractoare",
+          "descriere" : "490HP , 50KM/H",
+          "pret" : "75000"
+      },
+      {
+          "cod_produs" : "bZ2dE",
+          "denumire" : "Torion 639",
+          "brand" : "Claas",
+          "categorie" : "FrontLoaders",
+          "pentru" : "Manipulatoare",
+          "descriere" : "68HP , 20KM/H",
+          "pret" : "20000"
+      },
+      {
+          "cod_produs" : "W1uYr",
+          "denumire" : "Torion 956 Sinus",
+          "brand" : "Claas",
+          "categorie" : "WheelLoaders",
+          "pentru" : "Manipulatoare",
+          "descriere" : "106HP , 40KM/H",
+          "pret" : "32000"
+      },
+      {
+          "cod_produs" : "6sLpM",
+          "denumire" : "Torion 1511",
+          "brand" : "Claas",
+          "categorie" : "WheelLoaders",
+          "pentru" : "Manipulatoare",
+          "descriere" : "167HP , 40KM/H",
+          "pret" : "38000"
+      },
+      {
+          "cod_produs" : "q4oCj",
+          "denumire" : "Torion 1914",
+          "brand" : "Claas",
+          "categorie" : "WheelLoaders",
+          "pentru" : "Manipulatoare",
+          "descriere" : "224HP , 40KM/H",
+          "pret" : "44000"
+      },
+      {
+          "cod_produs" : "U7iNf",
+          "denumire" : "Scorpion 1033",
+          "brand" : "Claas",
+          "categorie" : "Telehanders",
+          "pentru" : "Manipulatoare",
+          "descriere" : "136HP , 40KM/H",
+          "pret" : "36500"
+      },
+      {
+          "cod_produs" : "R3xKh",
+          "denumire" : "Bruin4200",
+          "brand" : "Berthoud",
+          "categorie" : "CropProtection",
+          "pentru" : "UtilajeFertilizat",
+          "descriere" : "300HP , 60KM/H , 36M WORKING WIDTH , CAPACITY=4200L",
+          "pret" : "85000"
+      },
+      {
+          "cod_produs" : "V5gFt",
+          "denumire" : "CC66",
+          "brand" : "AEBI",
+          "categorie" : "Mowers",
+          "pentru" : "UtilajeRecoltat",
+          "descriere" : "18HP , 9KM/H , WORKIND WIDTH 2M",
+          "pret" : "4000"
+      },
+      {
+          "cod_produs" : "I9wA2",
+          "denumire" : "6105",
+          "brand" : "Buhrer",
+          "categorie" : "SmallTractors",
+          "pentru" : "Tractoare",
+          "descriere" : "100HP , 25 KM/H",
+          "pret" : "33000"
+      },
+      {
+          "cod_produs" : "fP8zL",
+          "denumire" : "Series 7 TTV HD",
+          "brand" : "DeutzFahr",
+          "categorie" : "MediumTractors",
+          "pentru" : "Tractoare",
+          "descriere" : "247HP , 60KM/H",
+          "pret" : "46000"
+      },
+      {
+          "cod_produs" : "dQ6vH",
+          "denumire" : "Series 8 TTV",
+          "brand" : "DeutzFahr",
+          "categorie" : "MediumTractors",
+          "pentru" : "Tractoare",
+          "descriere" : "287HP , 60KM/H",
+          "pret" : "50000"
+      },
+      {
+          "cod_produs": "K7wR3",
+          "denumire": "LeaderPF226PluseComode",
+          "brand": "Faresin",
+          "categorie": "Animals",
+          "pentru": "Animale",
+          "descriere": "205HP , 40KM/H , CAPACITY 26000L",
+          "pret": "60000"
+      },
+      {
+          "cod_produs": "P4gQ2",
+          "denumire": "6.26 CLASSIC 52",
+          "brand": "Faresin",
+          "categorie": "Telehanders",
+          "pentru": "Manipulatoare",
+          "descriere": "69HP , 30KM/H",
+          "pret": "28000"
+      },
+      {
+          "cod_produs": "T9hY8",
+          "denumire": "6.26 FULL ELECTRIC",
+          "brand": "Faresin",
+          "categorie": "Telehanders",
+          "pentru": "Manipulatoare",
+          "descriere": "34HP , 15KM/H",
+          "pret": "24500"
+      },
+      {
+          "cod_produs": "L2vF6",
+          "denumire": "200 V VARIO",
+          "brand": "Fendt",
+          "categorie": "SmallTractors",
+          "pentru": "Tractoare",
+          "descriere": "79HP , 40KM/H",
+          "pret": "32000"
+      },
+      {
+          "cod_produs": "X3mP5",
+          "denumire": "300 VARIO",
+          "brand": "Fendt",
+          "categorie": "SmallTractors",
+          "pentru": "Tractoare",
+          "descriere": "113HP , 40KM/H",
+          "pret": "37000"
+      },
+      {
+          "cod_produs": "R8oN1",
+          "denumire": "500 Favorit",
+          "brand": "Fendt",
+          "categorie": "SmallTractors",
+          "pentru": "Tractoare",
+          "descriere": "115HP , 50KM/H",
+          "pret": "39500"
+      },
+      {
+          "cod_produs": "Z6dE4",
+          "denumire": "700 VARIO",
+          "brand": "Fendt",
+          "categorie": "MediumTractors",
+          "pentru": "Tractoare",
+          "descriere": "150HP , 50KM/H",
+          "pret": "44000"
+      },
+      {
+          "cod_produs": "V2sL9",
+          "denumire": "900 VARIO",
+          "brand": "Fendt",
+          "categorie": "LargeTractors",
+          "pentru": "Tractoare",
+          "descriere": "296HP , 60KM/H",
+          "pret": "58000"
+      },
+      {
+          "cod_produs": "H5tR7",
+          "denumire": "900 VARIO MT",
+          "brand": "Fendt",
+          "categorie": "LargeTractors",
+          "pentru": "Tractoare",
+          "descriere": "380HP , 40KM/H",
+          "pret": "65000"
+      },
+      {
+          "cod_produs": "U1iG9",
+          "denumire": "1000 VARIO",
+          "brand": "Fendt",
+          "categorie": "LargeTractors",
+          "pentru": "Tractoare",
+          "descriere": "396HP , 60KM/H",
+          "pret": "69000"
+      },
+      {
+          "cod_produs": "M8aZ3",
+          "denumire": "1100 VARIO MT",
+          "brand": "Fendt",
+          "categorie": "LargeTractors",
+          "pentru": "Tractoare",
+          "descriere": "511HP , 40KM/H",
+          "pret": "75000"
+      },
+      {
+          "cod_produs": "F3lP2",
+          "denumire": "Rubicon9000",
+          "brand": "Hardi",
+          "categorie": "CropProtection",
+          "pentru": "UtilajeFertilizat",
+          "descriere": "370HP , 50KM/H , WORKING WIDTH 48.5M , CAPACITY 9000L",
+          "pret": "80000"
+      },
+      {
+          "cod_produs": "Q6vH4",
+          "denumire": "TJV 985",
+          "brand": "Iseki",
+          "categorie": "SmallTractors",
+          "pentru": "Tractoare",
+          "descriere": "95HP , 40KM/H",
+          "pret": "33000"
+      },
+      {
+          "cod_produs": "W2uY9",
+          "denumire": "Fastrac 4220",
+          "brand": "JCB",
+          "categorie": "MediumTractors",
+          "pentru": "Tractoare",
+          "descriere": "235HP , 60KM/H",
+          "pret": "50000"
+      },
+      {
+          "cod_produs": "N4aT8",
+          "denumire": "Fastrac 8330",
+          "brand": "JCB",
+          "categorie": "LargeTractors",
+          "pentru": "Tractoare",
+          "descriere": "384HP , 70KM/H",
+          "pret": "60000"
+      },
+      {
+          "cod_produs": "C8oJ6",
+          "denumire": "541-70 AGRI PRO",
+          "brand": "JCB",
+          "categorie": "Telehanders",
+          "pentru": "Manipulatoare",
+          "descriere": "145HP , 40KM/H",
+          "pret": "45000"
+      },
+      {
+          "cod_produs": "I9wx2",
+          "denumire": "Hem922DqCobraHYBRID",
+          "brand": "JENZ",
+          "categorie": "ForestryChop",
+          "pentru": "Forestry",
+          "descriere": "1322HP , 80KM/H",
+          "pret": "115000"
+      },
+      {
+          "cod_produs": "B4yX7",
+          "denumire": "6M SERIES",
+          "brand": "JohnDeere",
+          "categorie": "SmallTractors",
+          "pentru": "Tractoare",
+          "descriere": "130HP , 40KM/H",
+          "pret": "45000"
+      },
+      {
+          "cod_produs": "S1cM3",
+          "denumire": "7810",
+          "brand": "JohnDeere",
+          "categorie": "MediumTractors",
+          "pentru": "Tractoare",
+          "descriere": "175HP , 40KM/H",
+          "pret": "48000"
+      },
+      {
+          "cod_produs": "G6lQ1",
+          "denumire": "4755",
+          "brand": "JohnDeere",
+          "categorie": "MediumTractors",
+          "pentru": "Tractoare",
+          "descriere": "190HP , 35KM/H",
+          "pret": "49500"
+      },
+      {
+          "cod_produs": "K1wR5",
+          "denumire": "6R SERIES",
+          "brand": "JohnDeere",
+          "categorie": "MediumTractors",
+          "pentru": "Tractoare",
+          "descriere": "280HP , 50KM/H",
+          "pret": "58000"
+      },
+      {
+          "cod_produs": "P2gQ9",
+          "denumire": "7R SERIES",
+          "brand": "JohnDeere",
+          "categorie": "LargeTractors",
+          "pentru": "Tractoare",
+          "descriere": "305HP , 50KM/H",
+          "pret": "60000"
+      },
+      {
+          "cod_produs": "T3hY7",
+          "denumire": "8R SERIES",
+          "brand": "JohnDeere",
+          "categorie": "LargeTractors",
+          "pentru": "Tractoare",
+          "descriere": "326HP , 50KM/H",
+          "pret": "63500"
+      },
+      {
+          "cod_produs": "L4vF2",
+          "denumire": "8RT SERIES",
+          "brand": "JohnDeere",
+          "categorie": "LargeTractors",
+          "pentru": "Tractoare",
+          "descriere": "357HP , 40KM/H",
+          "pret": "65500"
+      },
+      {
+          "cod_produs": "X5mP6",
+          "denumire": "8RX SERIES",
+          "brand": "JohnDeere",
+          "categorie": "LargeTractors",
+          "pentru": "Tractoare",
+          "descriere": "357HP , 40KM/H",
+          "pret": "68000"
+      },
+      {
+          "cod_produs": "R6oN8",
+          "denumire": "9R SERIES",
+          "brand": "JohnDeere",
+          "categorie": "LargeTractors",
+          "pentru": "Tractoare",
+          "descriere": "462HP , 40KM/H",
+          "pret": "74000"
+      },
+      {
+          "cod_produs": "Z7dE3",
+          "denumire": "9RT SERIES",
+          "brand": "JohnDeere",
+          "categorie": "LargeTractors",
+          "pentru": "Tractoare",
+          "descriere": "517HP , 40KM/H",
+          "pret": "84000"
+      },
+      {
+          "cod_produs": "V8sL4",
+          "denumire": "XUV865M",
+          "brand": "JohnDeere",
+          "categorie": "Cars",
+          "pentru": "Masini",
+          "descriere": "23HP , 50KM/H , CAPACITY 460L",
+          "pret": "25000"
+      },
+      {
+          "cod_produs": "H5tR8",
+          "denumire": "EFG S50",
+          "brand": "Junghinrich",
+          "categorie": "Forklifts",
+          "pentru": "Manipulatoare",
+          "descriere": "57HP , 17KM/H",
+          "pret": "18000"
+      },
+      {
+          "cod_produs": "U1iG7",
+          "denumire": "ETV 216L",
+          "brand": "Junghinrich",
+          "categorie": "Forklifts",
+          "pentru": "Manipulatoare",
+          "descriere": "33HP , 14KM/H",
+          "pret": "11000"
+      },
+      {
+          "cod_produs": "M8BZ3",
+          "denumire": "931XC",
+          "brand": "Komatsu",
+          "categorie": "ForestryCutting",
+          "pentru": "Forestry",
+          "descriere": "251HP , 20KM/H",
+          "pret": "85000"
+      },
+      {
+          "cod_produs": "F3lP3",
+          "denumire": "875",
+          "brand": "Komatsu",
+          "categorie": "ForestrTransporting",
+          "pentru": "Forestry",
+          "descriere": "251HP , 20KM/H",
+          "pret": "75000"
+      },
+      {
+          "cod_produs": "Q6vH8",
+          "denumire": "BigM450",
+          "brand": "Krone",
+          "categorie": "Mowers",
+          "pentru": "UtilajeRecoltat",
+          "descriere": "449HP , 40KM/H , WORKING WIDTH 10M",
+          "pret": "80000"
+      },
+      {
+          "cod_produs": "W2cA9",
+          "denumire": "SpwIntense252CL",
+          "brand": "Kuhn",
+          "categorie": "Animals",
+          "pentru": "Animale",
+          "descriere": "250HP , 40KM/H , CAPACITY 25000L",
+          "pret": "76000"
+      },
+      {
+          "cod_produs": "N4hy7",
+          "denumire": "REX 4GT",
+          "brand": "Landini",
+          "categorie": "SmallTractors",
+          "pentru": "Tractoare",
+          "descriere": "70HP , 40KM/H",
+          "pret": "34000"
+      },
+      {
+          "cod_produs": "N6gR3",
+          "denumire": "SERIE7 ROBO-SIX",
+          "brand": "Landini",
+          "categorie": "MediumTractors",
+          "pentru": "Tractoare",
+          "descriere": "190HP , 50KM/H",
+          "pret": "50000"
+      },
+      {
+          "cod_produs": "VBwA2",
+          "denumire": "Lintrac 130",
+          "brand": "Linder",
+          "categorie": "SmallTractors",
+          "pentru": "Tractoare",
+          "descriere": "136HP , 50KM/H",
+          "pret": "44000"
+      },
+      {
+          "cod_produs": "B74a7",
+          "denumire": "PICKUP 1986",
+          "brand": "Lizard",
+          "categorie": "Cars",
+          "pentru": "Masini",
+          "descriere": "200HP , 120KM/H",
+          "pret": "35000"
+      },
+      {
+          "cod_produs": "S1Fa3",
+          "denumire": "PIKCUP 2017",
+          "brand": "Lizard",
+          "categorie": "Cars",
+          "pentru": "Masini",
+          "descriere": "300HP , 120KM/H",
+          "pret": "55000"
+      },
+      {
+          "cod_produs": "G1lQ1",
+          "denumire": "Retriever 1000",
+          "brand": "Mahindra",
+          "categorie": "Cars",
+          "pentru": "Masini",
+          "descriere": "83HP , 97KM/H , 460L",
+          "pret": "34000"
+      },
+      {
+          "cod_produs": "G6cos",
+          "denumire": "18.500 4X4",
+          "brand": "Man",
+          "categorie": "Trucks",
+          "pentru": "Masini",
+          "descriere": "500HP , 80KM/H",
+          "pret": "75000"
+      },
+      {
+          "cod_produs": "R6oN9",
+          "denumire": "TGX26640",
+          "brand": "Man",
+          "categorie": "ForestryTransporting",
+          "pentru": "Forestry,Masini",
+          "descriere": "650HP , 80KM/H",
+          "pret": "90000"
+      },
+      {
+          "cod_produs": "Z7dE1",
+          "denumire": "MLT 625-75H",
+          "brand": "Manitou",
+          "categorie": "Telehanders",
+          "pentru": "Manipulatoare",
+          "descriere": "75HP , 25KM/H",
+          "pret": "23000"
+      },
+      {
+          "cod_produs": "V8sL3",
+          "denumire": "MLT 737-130PS+",
+          "brand": "Manitou",
+          "categorie": "Telehanders",
+          "pentru": "Manipulatoare",
+          "descriere": "129HP , 40KM/H",
+          "pret": "34000"
+      },
+      {
+          "cod_produs": "H5tR4",
+          "denumire": "NKT 840-145 PS+",
+          "brand": "Manitou",
+          "categorie": "Telehanders",
+          "pentru": "Manipulatoare",
+          "descriere": "141HP , 40KM/H",
+          "pret": "37000"
+      },
+      {
+          "cod_produs": "U1iG6",
+          "denumire": "MC 18-4",
+          "brand": "Manitou",
+          "categorie": "Forklifts",
+          "pentru": "Manipulatoare",
+          "descriere": "36HP , 25KM/H",
+          "pret": "17000"
+      },
+      {
+          "cod_produs": "M8aZ7",
+          "denumire": "MF 3700 AL",
+          "brand": "MasseyFergusson",
+          "categorie": "SmallTractors",
+          "pentru": "Tractoare",
+          "descriere": "75HP , 40KM/H",
+          "pret": "35000"
+      },
+      {
+          "cod_produs": "F3lP9",
+          "denumire": "MF 4700 M",
+          "brand": "MasseyFergusson",
+          "categorie": "SmallTractors",
+          "pentru": "Tractoare",
+          "descriere": "82HP , 40KM/H",
+          "pret": "37000"
+      },
+      {
+          "cod_produs": "Q6vH2",
+          "denumire": "MF 5S",
+          "brand": "MasseyFergusson",
+          "categorie": "SmallTractors",
+          "pentru": "Tractoare",
+          "descriere": "105HP , 40KM/H",
+          "pret": "40000"
+      },
+      {
+          "cod_produs": "W2uY1",
+          "denumire": "MF 6S",
+          "brand": "MasseyFergusson",
+          "categorie": "SmallTractors",
+          "pentru": "Tractoare",
+          "descriere": "135HP , 50KM/H",
+          "pret": "44000"
+      },
+      {
+          "cod_produs": "N4aT3",
+          "denumire": "MF 6700 S",
+          "brand": "MasseyFergusson",
+          "categorie": "MediumTractors",
+          "pentru": "Tractoare",
+          "descriere": "150HP , 50KM/H",
+          "pret": "48000"
+      },
+      {
+          "cod_produs": "C8oJ7",
+          "denumire": "MF 7S",
+          "brand": "MasseyFergusson",
+          "categorie": "MediumTractors",
+          "pentru": "Tractoare",
+          "descriere": "155HP , 50KM/H",
+          "pret": "49500"
+      },
+      {
+          "cod_produs": "I9wA5",
+          "denumire": "MF 3670",
+          "brand": "MasseyFergusson",
+          "categorie": "MediumTractors",
+          "pentru": "Tractoare",
+          "descriere": "170HP , 40KM/H",
+          "pret": "53000"
+      },
+      {
+          "cod_produs": "B4yX2",
+          "denumire": "MF 7710 S",
+          "brand": "MasseyFergusson",
+          "categorie": "MediumTractors",
+          "pentru": "Tractoare",
+          "descriere": "175HP , 50KM/H",
+          "pret": "54000"
+      },
+      {
+          "cod_produs": "S1cM6",
+          "denumire": "MF 8S",
+          "brand": "MasseyFergusson",
+          "categorie": "MediumTractors",
+          "pentru": "Tractoare",
+          "descriere": "205HP , 50KM/H",
+          "pret": "58000"
+      },
+      {
+          "cod_produs": "G6lQ8",
+          "denumire": "MF 7720 S",
+          "brand": "MasseyFergusson",
+          "categorie": "MediumTractors",
+          "pentru": "Tractoare",
+          "descriere": "225HP , 50KM/H",
+          "pret": "62000"
+      },
+      {
+          "cod_produs": "Nao9M",
+          "denumire": "X7 VT-DRIVE",
+          "brand": "McCormick",
+          "categorie": "MediumTractors",
+          "pentru": "Tractoare",
+          "descriere": "190HP , 50KM/H",
+          "pret": "40000"
+      },
+      {
+          "cod_produs": "A12B3",
+          "denumire": "X8 TV-Drive",
+          "brand": "McCormick",
+          "categorie": "MediumTractors",
+          "pentru": "Tractoare",
+          "descriere": "264HP , 50KM/H",
+          "pret": "45000"
+        },
+        {
+          "cod_produs": "C45D6",
+          "denumire": "TK4.80 Methane Power",
+          "brand": "NewHolland",
+          "categorie": "SmallTractors",
+          "pentru": "Tractoare",
+          "descriere": "75HP , 12KM/H",
+          "pret": "20000"
+        },
+        {
+          "cod_produs": "E78F9",
+          "denumire": "T6 Series",
+          "brand": "NewHolland",
+          "categorie": "SmallTractors",
+          "pentru": "Tractoare",
+          "descriere": "125HP , 50KM/H",
+          "pret": "32000"
+        },
+        {
+          "cod_produs": "G01H2",
+          "denumire": "T7 HD Series",
+          "brand": "NewHolland",
+          "categorie": "MediumTractors",
+          "pentru": "Tractoare",
+          "descriere": "273HP , 50KM/H",
+          "pret": "43000"
+        },
+        {
+          "cod_produs": "I34J5",
+          "denumire": "T8 Genesis Series",
+          "brand": "NewHolland",
+          "categorie": "LargeTractors",
+          "pentru": "Tractoare",
+          "descriere": "351HP , 50KM/H",
+          "pret": "52000"
+        },
+        {
+          "cod_produs": "K67L8",
+          "denumire": "T9 Series",
+          "brand": "NewHolland",
+          "categorie": "LargeTractors",
+          "pentru": "Tractoare",
+          "descriere": "469HP , 40KM/H",
+          "pret": "65000"
+        },
+        {
+          "cod_produs": "M90N1",
+          "denumire": "T9 Tracks Series",
+          "brand": "NewHolland",
+          "categorie": "LargeTractors",
+          "pentru": "Tractoare",
+          "descriere": "517HP , 30KM/H",
+          "pret": "67000"
+        },
+        {
+          "cod_produs": "O23P4",
+          "denumire": "TH7 42 Elite",
+          "brand": "NewHolland",
+          "categorie": "Telehanders",
+          "pentru": "Manipulatoare",
+          "descriere": "146HP , 40KM/H",
+          "pret": "30000"
+        },
+        {
+          "cod_produs": "Q56R7",
+          "denumire": "L318",
+          "brand": "NewHolland",
+          "categorie": "Skidsteer",
+          "pentru": "Manipulatoare",
+          "descriere": "68HP , 18KM/H",
+          "pret": "12500"
+        },
+        {
+          "cod_produs": "S89T0",
+          "denumire": "c332",
+          "brand": "NewHolland",
+          "categorie": "Skidsteer",
+          "pentru": "Manipulatoare",
+          "descriere": "82HP , 13KM/H",
+          "pret": "18000"
+        },
+        {
+          "cod_produs": "U12V3",
+          "denumire": "At5104LNMS",
+          "brand": "Ploeger",
+          "categorie": "SlurryTanks",
+          "pentru": "Animale",
+          "descriere": "550HP , 40KM/H",
+          "pret": "68000"
+        },
+        {
+          "cod_produs": "Y78Z9",
+          "denumire": "Cobra",
+          "brand": "Ponsse",
+          "categorie": "ForestryCutting",
+          "pentru": "Forestry",
+          "descriere": "285HP , 20KM/H",
+          "pret": "60000"
+        },
+        {
+          "cod_produs": "01a2",
+          "denumire": "BisonActiveFrame",
+          "brand": "Ponsse",
+          "categorie": "ForestryTransporting",
+          "pentru": "Forestry",
+          "descriere": "285HP , 20KM/H",
+          "pret": "65000"
+        },
+        {
+          "cod_produs": "b34C5",
+          "denumire": "Raptor300",
+          "brand": "Prinoth",
+          "categorie": "ForestryOther",
+          "pentru": "Forestry",
+          "descriere": "275HP , 8KM/H",
+          "pret": "30000"
+        },
+        {
+          "cod_produs": "D67e8",
+          "denumire": "Leitwolf Agripower",
+          "brand": "Prinoth",
+          "categorie": "Misc",
+          "pentru": "Altele",
+          "descriere": "435HP , 20KM/H",
+          "pret": "40000"
+        },
+        {
+          "cod_produs": "F90g1",
+          "denumire": "SKE 50 Electric",
+          "brand": "Rigitrac",
+          "categorie": "SmallTractors",
+          "pentru": "Tractoare",
+          "descriere": "68HP , 40KM/H",
+          "pret": "23000"
+        },
+        {
+          "cod_produs": "H23i4",
+          "denumire": "NawaroMaus",
+          "brand": "Ropa",
+          "categorie": "Misc",
+          "pentru": "UtilajeRecoltat",
+          "descriere": "354HP , 40KM/H , WORKING WIDTH 8M",
+          "pret": "110000"
+        },
+        {
+          "cod_produs": "J56K7",
+          "denumire": "RSM 2375",
+          "brand": "Rostselmash",
+          "categorie": "LargeTractors",
+          "pentru": "Tractoare",
+          "descriere": "375HP , 25KM/H",
+          "pret": "65000"
+        },
+        {
+          "cod_produs": "L89M0",
+          "denumire": "H21D",
+          "brand": "Rottne",
+          "categorie": "ForestryArm",
+          "pentru": "Forestry",
+          "descriere": "305HP , 20KM/H",
+          "pret": "50000"
+        },
+        {
+          "cod_produs": "N12O3",
+          "denumire": "F20D",
+          "brand": "Rottne",
+          "categorie": "ForestryTransporting",
+          "pentru": "Forestry",
+          "descriere": "278HP , 20KM/H",
+          "pret": "50000"
+        },
+        {
+          "cod_produs": "P45Q6",
+          "denumire": "23E",
+          "brand": "Schäffer",
+          "categorie": "FrontLoaders",
+          "pentru": "Manipulatoare",
+          "descriere": "41HP , 20KM/H",
+          "pret": "16000"
+        },
+        {
+          "cod_produs": "R78S9",
+          "denumire": "2630",
+          "brand": "Schäffer",
+          "categorie": "FrontLoaders",
+          "pentru": "Manipulatoare",
+          "descriere": "25HP, 20KM/H",
+          "pret": "14000"
+        },
+        {
+          "cod_produs": "T0U1V2",
+          "denumire": "4670T",
+          "brand": "Schäffer",
+          "categorie": "Telehanders",
+          "pentru": "Manipulatoare",
+          "descriere": "66HP , 30KM/H",
+          "pret": "20500"
+        },
+        {
+          "cod_produs": "W3X4Y5",
+          "denumire": "9660 t-2",
+          "brand": "Schäffer",
+          "categorie": "Telehanders",
+          "pentru": "Manipulatoare",
+          "descriere": "177HP , 30KM/H",
+          "pret": "40000"
+        },
+        {
+          "cod_produs": "X67Y8",
+          "denumire": "Selfline40Premium221522",
+          "brand": "Siloking",
+          "categorie": "Animals",
+          "pentru": "Animale",
+          "descriere": "218HP , 40KM/H , CAPACITY 22000L",
+          "pret": "65000"
+        },
+        {
+          "cod_produs": "Z90A1",
+          "denumire": "8150",
+          "brand": "Steyr",
+          "categorie": "SmallTractors",
+          "pentru": "Tractoare",
+          "descriere": "135HP , 40KM/H",
+          "pret": "22000"
+        },
+        {
+          "cod_produs": "B23C4",
+          "denumire": "VM1702DoubleSF",
+          "brand": "Strautmann",
+          "categorie": "Animals",
+          "pentru": "Animale",
+          "descriere": "175HP , 40KM/H , CAPACITY 17000L",
+          "pret": "58000"
+        },
+        {
+          "cod_produs": "D56E7",
+          "denumire": "A Series",
+          "brand": "Valtra",
+          "categorie": "SmallTractors",
+          "pentru": "Tractoare",
+          "descriere": "105HP , 40KM/H",
+          "pret": "25000"
+        },
+        {
+          "cod_produs": "F89G0",
+          "denumire": "G Series",
+          "brand": "Valtra",
+          "categorie": "SmallTractors",
+          "pentru": "Tractoare",
+          "descriere": "110HP , 40KM/H",
+          "pret": "30000"
+        },
+        {
+          "cod_produs": "H12I3",
+          "denumire": "N Series",
+          "brand": "Valtra",
+          "categorie": "SmallTractors",
+          "pentru": "Tractoare",
+          "descriere": "145HP , 50KM/H",
+          "pret": "38000"
+        },
+        {
+          "cod_produs": "J45K6",
+          "denumire": "Valmet 8750",
+          "brand": "Valtra",
+          "categorie": "MediumTractors",
+          "pentru": "Tractoare",
+          "descriere": "190HP , 40KM/H",
+          "pret": "44000"
+        },
+        {
+          "cod_produs": "L78M9",
+          "denumire": "T Series",
+          "brand": "Valtra",
+          "categorie": "MediumTractors",
+          "pentru": "Tractoare",
+          "descriere": "210HP , 50KM/H",
+          "pret": "48000"
+        },
+        {
+          "cod_produs": "N01O2",
+          "denumire": "Q Series",
+          "brand": "Valtra",
+          "categorie": "MediumTractors",
+          "pentru": "Tractoare",
+          "descriere": "230HP , 50KM/H",
+          "pret": "51000"
+        },
+        {
+          "cod_produs": "abc671",
+          "denumire": "4WD",
+          "brand": "Versatile",
+          "categorie": "LargeTractors",
+          "pentru": "Tractoare",
+          "descriere": "583HP , 35KM/H",
+          "pret": "70000"
+        },
+        {
+          "cod_produs": "R67S8",
+          "denumire": "HydroTrike5X5",
+          "brand": "Vervaet",
+          "categorie": "SlurryTanks",
+          "pentru": "Animale",
+          "descriere": "530HP , 40KM/H , CAPACITY 20000L",
+          "pret": "52000"
+        },
+        {
+          "cod_produs": "T90U1",
+          "denumire": "Major CL",
+          "brand": "Zetor",
+          "categorie": "SmallTractors",
+          "pentru": "Tractoare",
+          "descriere": "75HP , 30KM/H",
+          "pret": "17000"
+        },
+        {
+          "cod_produs": "V23W4",
+          "denumire": "Proxima HS",
+          "brand": "Zetor",
+          "categorie": "SmallTractors",
+          "pentru": "Tractoare",
+          "descriere": "76HP , 40KM/H",
+          "pret": "18000"
+        },
+        {
+          "cod_produs": "X56Y7",
+          "denumire": "Forterra HSX",
+          "brand": "Zetor",
+          "categorie": "SmallTractors",
+          "pentru": "Tractoare",
+          "descriere": "117HP , 40KM/H",
+          "pret": "22000"
+        },
+        {
+          "cod_produs": "Z89A0",
+          "denumire": "Crystal HD",
+          "brand": "Zetor",
+          "categorie": "MediumTractors",
+          "pentru": "Tractoare",
+          "descriere": "171HP , 40KM/H",
+          "pret": "28000"
+        },
+        {
+          "cod_produs": "B12C3",
+          "denumire": "B2500",
+          "brand": "Tenwinkel",
+          "categorie": "Greutate",
+          "pentru": "Tractoare",
+          "descriere": "-",
+          "pret": "5000"
+        },
+        {
+          "cod_produs": "D45E6",
+          "denumire": "FGB600",
+          "brand": "Tenwinkel",
+          "categorie": "Greutate",
+          "pentru": "Tractoare",
+          "descriere": "-",
+          "pret": "3000"
+        },
+        {
+          "cod_produs": "F78G9",
+          "denumire": "PAC750",
+          "brand": "Tenwinkel",
+          "categorie": "Greutate",
+          "pentru": "Tractoare",
+          "descriere": "-",
+          "pret": "3400"
+        },
+        {
+          "cod_produs": "H01I2",
+          "denumire": "PAC1000",
+          "brand": "Tenwinkel",
+          "categorie": "Greutate",
+          "pentru": "Tractoare",
+          "descriere": "-",
+          "pret": "4000"
+        },
+        {
+          "cod_produs": "J34K5",
+          "denumire": "PAC1500",
+          "brand": "Tenwinkel",
+          "categorie": "Greutate",
+          "pentru": "Tractoare",
+          "descriere": "-",
+          "pret": "4300"
+        },
+        {
+          "cod_produs": "A1b2C3",
+          "denumire": "650",
+          "brand": "AGCO",
+          "categorie": "Greutate",
+          "pentru": "Tractoare",
+          "descriere": "-",
+          "pret": "3200"
+        },
+        {
+          "cod_produs": "D4e5F6",
+          "denumire": "1100",
+          "brand": "AGCO",
+          "categorie": "Greutate",
+          "pentru": "Tractoare",
+          "descriere": "-",
+          "pret": "4000"
+        },
+        {
+          "cod_produs": "G7h8I9",
+          "denumire": "1500",
+          "brand": "AGCO",
+          "categorie": "Greutate",
+          "pentru": "Tractoare",
+          "descriere": "-",
+          "pret": "4300"
+        },
+        {
+          "cod_produs": "J1k2L3",
+          "denumire": "2300",
+          "brand": "AGCO",
+          "categorie": "Greutate",
+          "pentru": "Tractoare",
+          "descriere": "-",
+          "pret": "5000"
+        },
+        {
+          "cod_produs": "M4n5O6",
+          "denumire": "Pickup900",
+          "brand": "JohnDeere",
+          "categorie": "Greutate",
+          "pentru": "Tractoare",
+          "descriere": "-",
+          "pret": "4000"
+        },
+        {
+          "cod_produs": "P7q8R9",
+          "denumire": "Pickup1150",
+          "brand": "JohnDeere",
+          "categorie": "Greutate",
+          "pentru": "Tractoare",
+          "descriere": "-",
+          "pret": "4800"
+        },
+        {
+          "cod_produs": "S1t2U3",
+          "denumire": "Pickup1800",
+          "brand": "JohnDeere",
+          "categorie": "Greutate",
+          "pentru": "Tractoare",
+          "descriere": "-",
+          "pret": "5400"
+        },
+        {
+          "cod_produs": "V4w5X6",
+          "denumire": "Laforgeez1700",
+          "brand": "JohnDeere",
+          "categorie": "Greutate",
+          "pentru": "Tractoare",
+          "descriere": "-",
+          "pret": "5000"
+        },
+        {
+          "cod_produs": "Y7z8A9",
+          "denumire": "W600",
+          "brand": "Claas",
+          "categorie": "Greutate",
+          "pentru": "Tractoare",
+          "descriere": "-",
+          "pret": "3500"
+        },
+        {
+          "cod_produs": "B1c2D3",
+          "denumire": "W900",
+          "brand": "Claas",
+          "categorie": "Greutate",
+          "pentru": "Tractoare",
+          "descriere": "-",
+          "pret": "4000"
+        },
+        {
+          "cod_produs": "E4f5G6",
+          "denumire": "W1800",
+          "brand": "Claas",
+          "categorie": "Greutate",
+          "pentru": "Tractoare",
+          "descriere": "-",
+          "pret": "4500"
+        },
+        {
+          "cod_produs": "H7i8J9",
+          "denumire": "3300",
+          "brand": "Fendt",
+          "categorie": "Greutate",
+          "pentru": "Tractoare",
+          "descriere": "-",
+          "pret": "6700"
+        },
+       
+        {
+          "cod_produs": "K1l2M3",
+          "denumire": "UniversalBucket",
+          "brand": "Albutt",
+          "categorie": "FrontLoadersA",
+          "pentru": "Manipulatoare",
+          "descriere": "1000L",
+          "pret": "2500"
+        },
+        {
+          "cod_produs": "N4o5P6",
+          "denumire": "ManureFork",
+          "brand": "Albutt",
+          "categorie": "FrontLoadersA",
+          "pentru": "Manipulatoare",
+          "descriere": "1000L",
+          "pret": "3000"
+        },
+        {
+          "cod_produs": "Q7r8S9",
+          "denumire": "ForkWithGrapple",
+          "brand": "Albutt",
+          "categorie": "FrontLoadersA",
+          "pentru": "Manipulatoare",
+          "descriere": "1250L",
+          "pret": "3400"
+        },
+        {
+          "cod_produs": "T1u2V3",
+          "denumire": "SilageCutter",
+          "brand": "Albutt",
+          "categorie": "FrontLoadersA",
+          "pentru": "Manipulatoare",
+          "descriere": "850L",
+          "pret": "3250"
+        },
+        {
+          "cod_produs": "W4x5Y6",
+          "denumire": "BaleSpike",
+          "brand": "Albutt",
+          "categorie": "FrontLoadersA",
+          "pentru": "Manipulatoare",
+          "descriere": "-",
+          "pret": "2400"
+        },
+        {
+          "cod_produs": "Z7A8B9",
+          "denumire": "BaleHandler",
+          "brand": "Albutt",
+          "categorie": "FrontLoadersA",
+          "pentru": "Manipulatoare",
+          "descriere": "-",
+          "pret": "3200"
+        },
+        {
+          "cod_produs": "C1D2E3",
+          "denumire": "RoundbaleFork",
+          "brand": "Albutt",
+          "categorie": "FrontLoadersA",
+          "pentru": "Manipulatoare",
+          "descriere": "-",
+          "pret": "2800"
+        },
+        {
+          "cod_produs": "a1b2c3",
+          "denumire": "BaleKing",
+          "brand": "Albutt",
+          "categorie": "FrontLoadersA",
+          "pentru": "Manipulatoare",
+          "descriere": "-",
+          "pret": "4000"
+        },
+        {
+          "cod_produs": "d4e5f6",
+          "denumire": "PalletFork",
+          "brand": "Albutt",
+          "categorie": "FrontLoadersA",
+          "pentru": "Manipulatoare",
+          "descriere": "",
+          "pret": "3400"
+        },
+        {
+          "cod_produs": "g7h8i9",
+          "denumire": "LogFork",
+          "brand": "Albutt",
+          "categorie": "FrontLoadersA",
+          "pentru": "Manipulatoare",
+          "descriere": "-",
+          "pret": "3600"
+        },
+        {
+          "cod_produs": "j0k1l2",
+          "denumire": "SilageForkWL",
+          "brand": "Albutt",
+          "categorie": "WheelLoadersA",
+          "pentru": "Manipulatoare",
+          "descriere": "8000L",
+          "pret": "4000"
+        },
+        {
+          "cod_produs": "m3n4o5",
+          "denumire": "LogForkWL",
+          "brand": "Albutt",
+          "categorie": "WheelLoadersA",
+          "pentru": "Manipulatoare",
+          "descriere": "-",
+          "pret": "5000"
+        },
+      
+        {
+          "cod_produs": "p6q7r8",
+          "denumire": "FL140",
+          "brand": "Claas",
+          "categorie": "FrontLoadersA",
+          "pentru": "Tractoare",
+          "descriere": "",
+          "pret": "3200"
+        },
+        {
+          "cod_produs": "s9t0u1",
+          "denumire": "XB150",
+          "brand": "Hauer",
+          "categorie": "FrontLoadersA",
+          "pentru": "Tractoare",
+          "descriere": "Power Required : 120Hp",
+          "pret": "3000"
+        },
+        {
+          "cod_produs": "v2w3x4",
+          "denumire": "XB190",
+          "brand": "Hauer",
+          "categorie": "FrontLoadersA",
+          "pentru": "Tractoare",
+          "descriere": "Power Required : 180Hp",
+          "pret": "4300"
+        },
+        {
+          "cod_produs": "y5z6a7",
+          "denumire": "603R",
+          "brand": "JohnDeere",
+          "categorie": "FrontLoadersA",
+          "pentru": "Tractoare",
+          "descriere": "Power Required : 90Hp",
+          "pret": "3500"
+        },
+        {
+          "cod_produs": "b8c9d0",
+          "denumire": "643R",
+          "brand": "JohnDeere",
+          "categorie": "FrontLoadersA",
+          "pentru": "Tractoare",
+          "descriere": "Power Required : 280Hp",
+          "pret": "5000"
+        },
+        {
+          "cod_produs": "1a2b3c",
+          "denumire": "700M",
+          "brand": "JohnDeere",
+          "categorie": "FrontLoadersA",
+          "pentru": "Tractoare",
+          "descriere": "Power Required : 290Hp",
+          "pret": "5700"
+          },
+          {
+          "cod_produs": "4d5e6f",
+          "denumire": "Q3M",
+          "brand": "Quicke",
+          "categorie": "FrontLoadersA",
+          "pentru": "Tractoare",
+          "descriere": "Power Required : 60Hp",
+          "pret": "3200"
+          },
+          {
+          "cod_produs": "7g8h9i",
+          "denumire": "Q4M",
+          "brand": "Quicke",
+          "categorie": "FrontLoadersA",
+          "pentru": "Tractoare",
+          "descriere": "Power Required : 80Hp",
+          "pret": "3500"
+          },
+          {
+          "cod_produs": "j0k1l2",
+          "denumire": "Q5M",
+          "brand": "Quicke",
+          "categorie": "FrontLoadersA",
+          "pentru": "Tractoare",
+          "descriere": "Power Required : 100Hp",
+          "pret": "3900"
+          },
+          {
+          "cod_produs": "3m4n5o",
+          "denumire": "Q6M",
+          "brand": "Quicke",
+          "categorie": "FrontLoadersA",
+          "pentru": "Tractoare",
+          "descriere": "Power Required : 120Hp",
+          "pret": "4200"
+          },
+          {
+          "cod_produs": "6p7q8r",
+          "denumire": "Q7M",
+          "brand": "Quicke",
+          "categorie": "FrontLoadersA",
+          "pentru": "Tractoare",
+          "descriere": "Power Required : 140Hp",
+          "pret": "4500"
+          },
+          {
+          "cod_produs": "9s0t1u",
+          "denumire": "BigBagLifterSingle",
+          "brand": "Quicke",
+          "categorie": "FrontLoadersA",
+          "pentru": "Tractoare",
+          "descriere": "Power Required : -Hp",
+          "pret": "4000"
+          },
+          {
+          "cod_produs": "v2w3x4",
+          "denumire": "BigBagLifterDual",
+          "brand": "Quicke",
+          "categorie": "FrontLoadersA",
+          "pentru": "Tractoare",
+          "descriere": "Power Required : -Hp",
+          "pret": "4500"
+          },
+          {
+          "cod_produs": "y5z6a7",
+          "denumire": "1600",
+          "brand": "ABI",
+          "categorie": "Animals",
+          "pentru": "Animale",
+          "descriere": "Capacity : 2082L",
+          "pret": "15000"
+          },
+          {
+          "cod_produs": "b8c9d0",
+          "denumire": "550",
+          "brand": "ABI",
+          "categorie": "Animals",
+          "pentru": "Animale",
+          "descriere": "Capacity : 6056L",
+          "pret": "23000"
+          },
+          {
+          "cod_produs": "e1f2g3",
+          "denumire": "DiscOVigneV",
+          "brand": "Agrisem",
+          "categorie": "Subsoiler",
+          "pentru": "PrelucrareSol",
+          "descriere": "Power Required : 65Hp , Width working : 1.5M",
+          "pret": "19000"
+          },
+          {
+          "cod_produs": "h4i5j6",
+          "denumire": "CombiplowGold3M",
+          "brand": "Agrisem",
+          "categorie": "Subsoiler",
+          "pentru": "PrelucrareSol",
+          "descriere": "Power Required : 120Hp , Width working : 3M",
+          "pret": "25000"
+          },
+          {
+          "cod_produs": "k7l8m9",
+          "denumire": "CombiplowGold4M",
+          "brand": "Agrisem",
+          "categorie": "Subsoiler",
+          "pentru": "PrelucrareSol",
+          "descriere": "Power Required : 150Hp , Width working :4M",
+          "pret": "27000"
+          },
+          {
+          "cod_produs": "n0o1p2",
+          "denumire": "CultiplowPlatinum8M",
+          "brand": "Agrisem",
+          "categorie": "Subsoiler",
+          "pentru": "PrelucrareSol",
+          "descriere": "Power Required : 435Hp , Witdh working : 8M",
+          "pret": "35000"
+          },
+          {
+          "cod_produs": "q3r4s5",
+          "denumire": "Pov5XL",
+          "brand": "Agromasz",
+          "categorie": "Plow",
+          "pentru": "PrelucrareSol",
+          "descriere": "Power Required : 160Hp , Width working : 2.5M",
+          "pret": "20000"
+          },
+          {
+          "cod_produs": "t6u7v8",
+          "denumire": "BTC50H",
+          "brand": "Agromasz",
+          "categorie": "Disc",
+          "pentru": "PrelucrareSol",
+          "descriere": "Power Required : 180Hp , Width working : 5M",
+          "pret": "34500"
+          },
+          {
+          "cod_produs": "w9x0y1",
+          "denumire": "Falcon3",
+          "brand": "Agromasz",
+          "categorie": "Planter",
+          "pentru": "PrelucrareSol",
+          "descriere": "Power Required : 100Hp , Width working : 3M , Capacity : 1400L",
+          "pret": "11000"
+          },
+          {
+          "cod_produs": "z2a3b4",
+          "denumire": "MaratonaMG300",
+          "brand": "Alpego",
+          "categorie": "Disc",
+          "pentru": "PrelucrareSol",
+          "descriere": "Power Required : 120Hp , Width working : 3M",
+          "pret": "20000"
+          },
+          {
+          "cod_produs": "5c6d7e",
+          "denumire": "RotodentRMAX300",
+          "brand": "Alpego",
+          "categorie": "Disc",
+          "pentru": "PrelucrareSol",
+          "descriere": "Power Required : 120Hp , Width working : 3M",
+          "pret": "20000"
+          },
+          {
+            "cod_produs": "8f9g0h",
+            "denumire": "Cenio4000Super",
+            "brand": "Amazone",
+            "categorie": "Cultivator",
+            "pentru": "PrelucrareSol",
+            "descriere": "Power Required : 160Hp , Width working : 4M",
+            "pret": "15000"
+          },
+          {
+            "cod_produs": "i1j2k3l",
+            "denumire": "KG3001Super",
+            "brand": "Amazone",
+            "categorie": "PowerHarrow",
+            "pentru": "PrelucrareSol",
+            "descriere": "Power Required : 115Hp , Width working : 3M",
+            "pret": "11500"
+          },
+          {
+            "cod_produs": "m4n5o6p",
+            "denumire": "KG3001Centaya3000",
+            "brand": "Amazone",
+            "categorie": "Seeder",
+            "pentru": "PrelucrareSol",
+            "descriere": "Power Required : 165Hp , Width working : 3M",
+            "pret": "15000"
+          },
+          {
+            "cod_produs": "7q8r9s",
+            "denumire": "Citan15001C",
+            "brand": "Amazone",
+            "categorie": "Seeder",
+            "pentru": "PrelucrareSol",
+            "descriere": "Power Required : 300Hp , Width working : 15M , Capacity : 7800L",
+            "pret": "35000"
+          },
+          {
+            "cod_produs": "t0u1v2w",
+            "denumire": "Precea45002CSuper",
+            "brand": "Amazone",
+            "categorie": "Planter",
+            "pentru": "PrelucrareSol",
+            "descriere": "Power Required : 150Hp , Width working : 4.5M , Capacity : 1580L",
+            "pret": "18600"
+          },
+          {
+            "cod_produs": "x3y4z5a",
+            "denumire": "ZATS3200",
+            "brand": "Amazone",
+            "categorie": "SpreaderFertilizant",
+            "pentru": "UtilajeFertilizat",
+            "descriere": "Width working : 42M , Capacity : 3200L",
+            "pret": "20000"
+          },
+          {
+            "cod_produs": "6b7c8d",
+            "denumire": "ZGTS10001",
+            "brand": "Amazone",
+            "categorie": "SpreaderFertilizant",
+            "pentru": "UtilajeFertilizat",
+            "descriere": "Width working : 42M , Capacity : 10000L",
+            "pret": "31300"
+          },
+          {
+            "cod_produs": "9e0f1g",
+            "denumire": "TPackU",
+            "brand": "Amazone",
+            "categorie": "Misc",
+            "pentru": "Altele",
+            "descriere": "",
+            "pret": ""
+          },
+          {
+            "cod_produs": "2h3i4j",
+            "denumire": "BeetCart",
+            "brand": "Amitytech",
+            "categorie": "AugerWagons",
+            "pentru": "Wagon",
+            "descriere": "Power Required : 400Hp , Capacity : 45000L",
+            "pret": "39000"
+          },
+          {
+            "cod_produs": "5k6l7m",
+            "denumire": "BioBalerWB55",
+            "brand": "AndersonGroup",
+            "categorie": "Balotiera",
+            "pentru": "Baler",
+            "descriere": "Power Required : 200Hp",
+            "pret": "20000"
+          },
+          {
+            "cod_produs": "8n9o0p",
+            "denumire": "Bumper",
+            "brand": "AndersonGroup",
+            "categorie": "BalotieraA",
+            "pentru": "Baler",
+            "descriere": "-",
+            "pret": "2000"
+          },
+          {
+            "cod_produs": "q1r2s3",
+            "denumire": "RBM2000",
+            "brand": "AndersonGroup",
+            "categorie": "BaleLoaders",
+            "pentru": "Baler",
+            "descriere": "Power Required : 130Hp",
+            "pret": "12000"
+          },
+          {
+            "cod_produs": "4t5u6v",
+            "denumire": "IFX720XTractor",
+            "brand": "AndersonGroup",
+            "categorie": "BaleWrappers",
+            "pentru": "Baler",
+            "descriere": "Power 13HP , Speed : 5KM/H",
+            "pret": "14000"
+          },
+          {
+            "cod_produs": "w7x8y9",
+            "denumire": "HybridXXTractor",
+            "brand": "AndersonGroup",
+            "categorie": "BaleWrappers",
+            "pentru": "Baler",
+            "descriere": "Power 20HP , Speed : 5KM/H",
+            "pret": "17000"
+          },
+          {
+            "cod_produs": "z0a1b2",
+            "denumire": "M160",
+            "brand": "AndersonGroup",
+            "categorie": "ForestryTransporting",
+            "pentru": "Forestry",
+            "descriere": "-",
+            "pret": "13000"
+          },
+          {
+            "cod_produs": "3c4d5e",
+            "denumire": "PROChop150",
+            "brand": "AndersonGroup",
+            "categorie": "Animals",
+            "pentru": "Animale",
+            "descriere": "Power Required : 80Hp",
+            "pret": "20000"
+          },
+          {
+            "cod_produs": "6f7g8h",
+            "denumire": "FieldLinerHTS3106",
+            "brand": "Annaburger",
+            "categorie": "Trailers",
+            "pentru": "Remorci",
+            "descriere": "Capacity : 55000L",
+            "pret": "36500"
+          },
+          {
+            "cod_produs": "9i0j1k",
+            "denumire": "GK300M1FullEdition",
+            "brand": "APV",
+            "categorie": "GrasslandCare",
+            "pentru": "PrelucrareSol",
+            "descriere": "Power Required : 90Hp , Width working : 3M , Capacity : 200L",
+            "pret": "10300"
+          },
+          {
+            "cod_produs": "2l3m4n",
+            "denumire": "MultipackD14",
+            "brand": "Arcusin",
+            "categorie": "BaleLoaders",
+            "pentru": "Baler",
+            "descriere": "-",
+            "pret": "20000"
+          },
+          {
+            "cod_produs": "5o6p7q",
+            "denumire": "Forstack812",
+            "brand": "Arcusin",
+            "categorie": "BaleLoaders",
+            "pentru": "Baler",
+            "descriere": "-",
+            "pret": "16500"
+          },
+          {
+            "cod_produs": "6F7G8H",
+            "denumire": "FSX6372",
+            "brand": "Arcusin",
+            "categorie": "BaleLoaders",
+            "pentru": "Baler",
+            "descriere": "-",
+            "pret": "17200"
+          },
+          {
+            "cod_produs": "9I0J1K",
+            "denumire": "FB3000TO6000PT6000",
+            "brand": "Bednar",
+            "categorie": "Subsoiler",
+            "pentru": "PrelucrareSol",
+            "descriere": "Power Required : 500Hp , Width working : 6M , Capacity : 3000L",
+            "pret": "33400"
+          },
+          {
+            "cod_produs": "2L3M4N",
+            "denumire": "Platform",
+            "brand": "Befa",
+            "categorie": "Trailers",
+            "pentru": "Remorci",
+            "descriere": "-",
+            "pret": "17540"
+          },
+          {
+            "cod_produs": "5O6P7Q",
+            "denumire": "HTW65",
+            "brand": "Bergmann",
+            "categorie": "Trailers",
+            "pentru": "Remorci",
+            "descriere": "Capacity : 56400L",
+            "pret": "31300"
+          },
+          {
+            "cod_produs": "8R9S0T",
+            "denumire": "GTW330",
+            "brand": "Bergmann",
+            "categorie": "AugerWagons",
+            "pentru": "Wagon",
+            "descriere": "Power Required : 300Hp , Capacity : 33000L",
+            "pret": "26500"
+          },
+          {
+            "cod_produs": "1U2V3W",
+            "denumire": "RRW500",
+            "brand": "Bergmann",
+            "categorie": "AugerWagons",
+            "pentru": "Wagon",
+            "descriere": "Power Required : 300Hp , Capacity : 50700L",
+            "pret": "32100"
+          },
+          {
+            "cod_produs": "4X5Y6Z",
+            "denumire": "TSW6240W",
+            "brand": "Bergmann",
+            "categorie": "SpreaderFertilizant",
+            "pentru": "UtilajeFertilizat",
+            "descriere": "Power Required : 220Hp , Width working 24M ,  Capacity : 25000L",
+            "pret": "20000"
+          },
+          {
+            "cod_produs": "7A8B9C",
+            "denumire": "Shuttle490S",
+            "brand": "Bergmann",
+            "categorie": "ForageWagons",
+            "pentru": "Wagon",
+            "descriere": "Power Required : 300Hp , Capacity : 49500L",
+            "pret": "34010"
+          },
+          {
+            "cod_produs": "2D3E4F",
+            "denumire": "Vantage4300",
+            "brand": "Berthoud",
+            "categorie": "CropProtection",
+            "pentru": "UtilajeFertilizat",
+            "descriere": "Width working : 33M , Capacity : 4300L",
+            "pret": "23500"
+          },
+          {
+            "cod_produs": "5G6H7I",
+            "denumire": "BigMasterWesternWcf",
+            "brand": "Boeckmann",
+            "categorie": "AnimalsTransport",
+            "pentru": "Animale",
+            "descriere": "-",
+            "pret": "12000"
+          },
+          {
+            "cod_produs": "9J0K1L",
+            "denumire": "MhAl432035",
+            "brand": "Boeckmann",
+            "categorie": "Trailers",
+            "pentru": "Altele",
+            "descriere": "-",
+            "pret": "7350"
+          },
+          {
+            "cod_produs": "2M3N4O",
+            "denumire": "KK301827H",
+            "brand": "Boeckmann",
+            "categorie": "Trailers",
+            "pentru": "Altele",
+            "descriere": "-",
+            "pret": "11200"
+          },
+          {
+            "cod_produs": "5P6Q7R",
+            "denumire": "TracPack",
+            "brand": "Bomech",
+            "categorie": "SlurryTanks",
+            "pentru": "Animale",
+            "descriere": "Witdh working : 18m",
+            "pret": "18400"
+          },
+          {
+            "cod_produs": "8S9T0U",
+            "denumire": "MultiProfi2115",
+            "brand": "Bomech",
+            "categorie": "SlurryTanks",
+            "pentru": "Animale",
+            "descriere": "Witdh working : 21m",
+            "pret": "20100"
+          },
+          {
+            "cod_produs": "1V2W3X",
+            "denumire": "Multi4XL",
+            "brand": "Bomech",
+            "categorie": "SlurryTanks",
+            "pentru": "Animale",
+            "descriere": "Witdh working : 30m",
+            "pret": "25760"
+          },
+          {
+            "cod_produs": "4Y5Z6A",
+            "denumire": "Z180512XXLPowerFlex",
+            "brand": "Brantner",
+            "categorie": "Trailers",
+            "pentru": "Remorci",
+            "descriere": "Capacity : 19600L",
+            "pret": "15600"
+          },
+          {
+            "cod_produs": "7B8C9D",
+            "denumire": "Ta230652PowerTube",
+            "brand": "Brantner",
+            "categorie": "Trailers",
+            "pentru": "Remorci",
+            "descriere": "Capacity : 22000",
+            "pret": "18000"
+          },
+          {
+            "cod_produs": "2E3F4G",
+            "denumire": "DD240732XXL",
+            "brand": "Brantner",
+            "categorie": "Trailers",
+            "pentru": "Remorci",
+            "descriere": "Capacity : 22500L",
+            "pret": "19200"
+          },
+          {
+            "cod_produs": "5H6I7J",
+            "denumire": "TA23071PowerPush",
+            "brand": "Brantner",
+            "categorie": "Trailers",
+            "pentru": "Remorci",
+            "descriere": "Witdh working : 12m , Capacity : 25000L",
+            "pret": "24000"
+          },
+          {
+            "cod_produs": "9K0L1M",
+            "denumire": "TA12050PowerSpread",
+            "brand": "Brantner",
+            "categorie": "SpreaderFertilizant",
+            "pentru": "UtilajeFertilizat",
+            "descriere": "Power Required : 180Hp , Width working : 8-15M , Capacity : 9000L",
+            "pret": "21300"
+          },
+          {
+            "cod_produs": "2N3O4P",
+            "denumire": "K105",
+            "brand": "Bredal",
+            "categorie": "SpreaderFertilizant",
+            "pentru": "UtilajeFertilizat",
+            "descriere": "Width working : 12M , Capacity : 9000L",
+            "pret": "18900"
+          },
+          {
+            "cod_produs": "5Q6R7S",
+            "denumire": "K165",
+            "brand": "Bredal",
+            "categorie": "SpreaderFertilizant",
+            "pentru": "UtilajeFertilizat",
+            "descriere": "Width working : 12M , Capacity : 15600L",
+            "pret": "20500"
+          },
+          {
+            "cod_produs": "8A9B0C",
+            "denumire": "SG2000",
+            "brand": "Bredal",
+            "categorie": "Winter",
+            "pentru": "Iarna",
+            "descriere": "Width working : 10M , Capacity : 2000L",
+            "pret": "13500"
+          },
+          {
+            "cod_produs": "1D2E3F",
+            "denumire": "TransportWagenTP500s",
+            "brand": "Bremer",
+            "categorie": "LowLoaders",
+            "pentru": "Remorci",
+            "descriere": "-",
+            "pret": "7800"
+          },
+          {
+            "cod_produs": "4G5H6I",
+            "denumire": "ManureDirector14",
+            "brand": "Briri",
+            "categorie": "SpreaderFertilizant",
+            "pentru": "UtilajeFertilizat",
+            "descriere": "Power Required : 140Hp , Width working : 12M , Capacity : 1400L",
+            "pret": "25000"
+          },
+          {
+            "cod_produs": "7J8K9L",
+            "denumire": "FieldMaster20",
+            "brand": "Briri",
+            "categorie": "SlurryTanks",
+            "pentru": "Animale",
+            "descriere": "Power Required : 220Hp , Capacity : 20000L",
+            "pret": "27000"
+          },
+          {
+            "cod_produs": "2M3N4O",
+            "denumire": "Helianthus5700",
+            "brand": "Capello",
+            "categorie": "Header",
+            "pentru": "Headere",
+            "descriere": "Witdh working : 5.7m",
+            "pret": "14000"
+          },
+          {
+            "cod_produs": "5P6Q7R",
+            "denumire": "Helianthus12000",
+            "brand": "Capello",
+            "categorie": "Header",
+            "pentru": "Headere",
+            "descriere": "Witdh working : 12m",
+            "pret": "30000"
+          },
+          {
+            "cod_produs": "9S0T1U",
+            "denumire": "Diamant8",
+            "brand": "Capello",
+            "categorie": "CornHeader",
+            "pentru": "Headere",
+            "descriere": "Witdh working : 6m",
+            "pret": "17500"
+          },
+          {
+            "cod_produs": "2V3W4X",
+            "denumire": "Diamant12",
+            "brand": "Capello",
+            "categorie": "CornHeader",
+            "pentru": "Headere",
+            "descriere": "Witdh working : 9m",
+            "pret": "24600"
+          },
+          {
+            "cod_produs": "5Y6Z7A",
+            "denumire": "Spartan610",
+            "brand": "Capello",
+            "categorie": "ForageHeader",
+            "pentru": "Headere",
+            "descriere": "Witdh working : 6.1m",
+            "pret": "20300"
+          },
+          {
+            "cod_produs": "8B9C0D",
+            "denumire": "AxialFlow7150",
+            "brand": "CaseIH",
+            "categorie": "CombinaG",
+            "pentru": "Combine",
+            "descriere": "Power 449HP , Speed 30KM/H , Capacity : 10570L",
+            "pret": "93000"
+          },
+          {
+            "cod_produs": "1E2F3G",
+            "denumire": "AxialFlow9250",
+            "brand": "CaseIH",
+            "categorie": "CombinaG",
+            "pentru": "Combine",
+            "descriere": "Power 634 , Speed 30KM/H , Capacity : 14400L",
+            "pret": "107000"
+          },
+          {
+            "cod_produs": "4H5I6J",
+            "denumire": "Austoft8800MultiRow",
+            "brand": "CaseIH",
+            "categorie": "CombinaS",
+            "pentru": "Combine",
+            "descriere": "Power 353HP , Speed 10KM/H , Width Working 2M",
+            "pret": "97000"
+          },
+          {
+            "cod_produs": "7K8L9M",
+            "denumire": "ModuleExpress635",
+            "brand": "CaseIH",
+            "categorie": "CombinaC",
+            "pentru": "Combine",
+            "descriere": "Power 415HP , Speed 25KM/H , Width Working 6M , Capacity : 20000L",
+            "pret": "135000"
+          },
+          {
+            "cod_produs": "2N3O4P",
+            "denumire": "3020TerraFlex25FT",
+            "brand": "CaseIH",
+            "categorie": "Header",
+            "pentru": "Headere",
+            "descriere": "Width working : 7.5M",
+            "pret": "24500"
+          },
+          {
+            "cod_produs": "5Q6R7S",
+            "denumire": "3050TerraFlex28FT",
+            "brand": "CaseIH",
+            "categorie": "Header",
+            "pentru": "Headere",
+            "descriere": "Width working : 8.5M",
+            "pret": "27500"
+          },
+          {
+            "cod_produs": "9T0U1V",
+            "denumire": "3050TerraFlex41FT",
+            "brand": "CaseIH",
+            "categorie": "Header",
+            "pentru": "Headere",
+            "descriere": "Width working : 12M",
+            "pret": "30000"
+          },
+          {
+            "cod_produs": "2W3X4Y",
+            "denumire": "3162TerraFlexDraper45FT",
+            "brand": "CaseIH",
+            "categorie": "Header",
+            "pentru": "Headere",
+            "descriere": "Width working : 13.7M",
+            "pret": "32000"
+          },
+          {
+            "cod_produs": "5Z6A7B",
+            "denumire": "4408",
+            "brand": "CaseIH",
+            "categorie": "CornHeader",
+            "pentru": "Headere",
+            "descriere": "Width working : 6M",
+            "pret": "24000"
+          },
+          {
+            "cod_produs": "8C9D0E",
+            "denumire": "4418N",
+            "brand": "CaseIH",
+            "categorie": "CornHeader",
+            "pentru": "Headere",
+            "descriere": "Width working : 10M",
+            "pret": "29000"
+          },
+          {
+            "cod_produs": "1F2G3H",
+            "denumire": "SpeedTiller465",
+            "brand": "CaseIH",
+            "categorie": "Disc",
+            "pentru": "PrelucrareSol",
+            "descriere": "Power Required : 360Hp , Width Working : 9.5M",
+            "pret": "24500"
+          },
+          {
+            "cod_produs": "4I5J6K",
+            "denumire": "SpeedTiller475",
+            "brand": "CaseIH",
+            "categorie": "Disc",
+            "pentru": "PrelucrareSol",
+            "descriere": "Power Required : 550Hp , Width Working : 12.5M",
+            "pret": "28500"
+          },
+          {
+            "cod_produs": "7L8M9N",
+            "denumire": "LB436HD",
+            "brand": "CaseIH",
+            "categorie": "Balotiera",
+            "pentru": "Baler",
+            "descriere": "Power Required : 230Hp",
+            "pret": "39500"
+          },
+          {
+            "cod_produs": "2O3P4Q",
+            "denumire": "Trion750720",
+            "brand": "Claas",
+            "categorie": "CombinaG",
+            "pentru": "Combine",
+            "descriere": "Power 367HP , Speed 30KM/H , Capacity 10500L",
+            "pret": "89600"
+          },
+          {
+            "cod_produs": "5R6S7T",
+            "denumire": "Lexion8900",
+            "brand": "Claas",
+            "categorie": "CombinaG",
+            "pentru": "Combine",
+            "descriere": "Power 780HP , Speed 40KM/H , Capacity 15000L",
+            "pret": "135000"
+          },
+          {
+            "cod_produs": "8U9V0W",
+            "denumire": "Jaguar960TerraTrac",
+            "brand": "Claas",
+            "categorie": "CombinaF",
+            "pentru": "Combine",
+            "descriere": "Power 626HP , Speed 40KM/H , Capacity 20L",
+            "pret": "87000"
+          },
+          {
+            "cod_produs": "1X2Y3Z",
+            "denumire": "ConvioFlex1080",
+            "brand": "Claas",
+            "categorie": "Header",
+            "pentru": "Headere",
+            "descriere": "Width working : 10.8M",
+            "pret": "25000"
+          },
+          {
+            "cod_produs": "4A5B6C",
+            "denumire": "ConvioFlex1380",
+            "brand": "Claas",
+            "categorie": "Header",
+            "pentru": "Headere",
+            "descriere": "Width working : 13.8M",
+            "pret": "31000"
+          },
+          {
+            "cod_produs": "7D8E9F",
+            "denumire": "Corio875FC",
+            "brand": "Claas",
+            "categorie": "CornHeader",
+            "pentru": "Headere",
+            "descriere": "Width working : 6M",
+            "pret": "24000"
+          },
+          {
+            "cod_produs": "2G3H4I",
+            "denumire": "Corio1275C",
+            "brand": "Claas",
+            "categorie": "CornHeader",
+            "pentru": "Headere",
+            "descriere": "Width working : 9M",
+            "pret": "30000"
+          },
+          {
+            "cod_produs": "5J6K7L",
+            "denumire": "PickUp300",
+            "brand": "Claas",
+            "categorie": "ForageHeader",
+            "pentru": "Headere",
+            "descriere": "Width working : 3M",
+            "pret": "18000"
+          },
+          {
+            "cod_produs": "9M0N1O",
+            "denumire": "DirectDisc500",
+            "brand": "Claas",
+            "categorie": "ForageHeader",
+            "pentru": "Headere",
+            "descriere": "Width working : 5M",
+            "pret": "20500"
+          },
+          {
+            "cod_produs": "2P3Q4R",
+            "denumire": "Orbis750",
+            "brand": "Claas",
+            "categorie": "ForageHeader",
+            "pentru": "Headere",
+            "descriere": "Power Required : 650Hp , Witdh Working : 7.5M",
+            "pret": "29450"
+          },
+          {
+            "cod_produs": "5S6T7U",
+            "denumire": "Orbis900",
+            "brand": "Claas",
+            "categorie": "ForageHeader",
+            "pentru": "Headere",
+            "descriere": "Power Required : 750Hp , Witdh Working : 9M",
+            "pret": "34500"
+          },
+          {
+            "cod_produs": "8V9W0X",
+            "denumire": "Carat140TD",
+            "brand": "Claas",
+            "categorie": "Trailers",
+            "pentru": "Remorci",
+            "descriere": "Capacity : 12600L",
+            "pret": "17000"
+          },
+          {
+            "cod_produs": "1Y2Z3A",
+            "denumire": "Liner4900Business",
+            "brand": "Claas",
+            "categorie": "Windrower",
+            "pentru": "Baler",
+            "descriere": "Power Required : 115Hp , Width working : 15M",
+            "pret": "24000"
+          },
+          {
+            "cod_produs": "4B5C6D",
+            "denumire": "Cargos9500",
+            "brand": "Claas",
+            "categorie": "ForageWagons",
+            "pentru": "Wagon",
+            "descriere": "Power Required : 220Hp , Capacity : 44000L",
+            "pret": "26500"
+          },
+          {
+            "cod_produs": "7E8F9G",
+            "denumire": "Rollant455RCUniwrap",
+            "brand": "Claas",
+            "categorie": "Balotiera",
+            "pentru": "Baler",
+            "descriere": "Power Required : 145Hp",
+            "pret": "18500"
+          },
+          {
+            "cod_produs": "2H3I4J",
+            "denumire": "Quadrant5300FC",
+            "brand": "Claas",
+            "categorie": "Balotiera",
+            "pentru": "Baler",
+            "descriere": "Power Required : 250Hp",
+            "pret": "25000"
+          },
+          {
+            "cod_produs": "5K6L7M",
+            "denumire": "Corio1275CTrailer",
+            "brand": "Claas",
+            "categorie": "TrailerHeader",
+            "pentru": "Headere",
+            "descriere": "-",
+            "pret": "7000"
+          },
+          {
+            "cod_produs": "9N0O1P",
+            "denumire": "DirectDisc500Trailer",
+            "brand": "Claas",
+            "categorie": "TrailerHeader",
+            "pentru": "Headere",
+            "descriere": "-",
+            "pret": "7000"
+          },
+          {
+            "cod_produs": "2Q3R4S",
+            "denumire": "Cst1550",
+            "brand": "ConveyAll",
+            "categorie": "AugerWagons",
+            "pentru": "Wagon",
+            "descriere": "Capacity : 43800L",
+            "pret": "33020"
+          },
+          {
+            "cod_produs": "5T6U7V",
+            "denumire": "1690",
+            "brand": "ConveyAll",
+            "categorie": "Misc",
+            "pentru": "Altele",
+            "descriere": "Power 15HP , Speed 5KM/H",
+            "pret": "20000"
+          },
+          {
+            "cod_produs": "8W9X0Y",
+            "denumire": "SolidFertilizer",
+            "brand": "Corteva",
+            "categorie": "Fertilizant",
+            "pentru": "Paleti",
+            "descriere": "Capacity : 1000L",
+            "pret": "400"
+          },
+          {
+            "cod_produs": "1Z2A3B",
+            "denumire": "LiquidFertilizer",
+            "brand": "Corteva",
+            "categorie": "Fertilizant",
+            "pentru": "Paleti",
+            "descriere": "Capacity : 2000L",
+            "pret": "900"
+          },
+          {
+            "cod_produs": "3C4D5E",
+            "denumire": "Herbicide",
+            "brand": "Corteva",
+            "categorie": "Ierbicid",
+            "pentru": "Paleti",
+            "descriere": "Capacity : 2000L",
+            "pret": "700"
+          },
+          {
+            "cod_produs": "6F7G8H",
+            "denumire": "PL75",
+            "brand": "Damcon",
+            "categorie": "ForestryOther",
+            "pentru": "Forestry",
+            "descriere": "Power Required : 120Hp , Width working : 1M",
+            "pret": "13500"
+          },
+          {
+            "cod_produs": "9I0J1K",
+            "denumire": "SideDump",
+            "brand": "Demco",
+            "categorie": "Trailers",
+            "pentru": "Remorci",
+            "descriere": "Capacity : 16800L",
+            "pret": "16400"
+          },
+          {
+            "cod_produs": "2L3M4N",
+            "denumire": "2200DualAugerGrainCart",
+            "brand": "Demco",
+            "categorie": "AugerWagons",
+            "pentru": "Wagon",
+            "descriere": "Power Required : 400Hp , Capacity : 77500L",
+            "pret": "34700"
+          },
+          {
+            "cod_produs": "5O6P7Q",
+            "denumire": "SteelDropDeck",
+            "brand": "Demco",
+            "categorie": "LowLoaders",
+            "pentru": "Remorci",
+            "descriere": "-",
+            "pret": "20000"
+          },
+          {
+            "cod_produs": "8R9S0T",
+            "denumire": "Topliner4090HTS",
+            "brand": "DeutzFahr",
+            "categorie": "CombinaG",
+            "pentru": "Combine",
+            "descriere": "Power 310HP , Speed 20KM/H , Capacity 8500L",
+            "pret": "65000"
+          },
+          {
+            "cod_produs": "1U2V3W",
+            "denumire": "Topliner4090Header",
+            "brand": "DeutzFahr",
+            "categorie": "Header",
+            "pentru": "Headere",
+            "descriere": "Width working : 6M",
+            "pret": "14000"
+          },
+          {
+            "cod_produs": "4X5Y6Z",
+            "denumire": "Topliner4090Trailer",
+            "brand": "DeutzFahr",
+            "categorie": "TrailerHeader",
+            "pentru": "Headere",
+            "descriere": "-",
+            "pret": "5200"
+          },
+          {
+            "cod_produs": "7A8B9C",
+            "denumire": "MeadowRollerVario",
+            "brand": "Duevelsdorf",
+            "categorie": "GrasslandCare",
+            "pentru": "Baler",
+            "descriere": "Power Required : 180Hp , Width working : 4M",
+            "pret": "13000"
+          },
+          {
+            "cod_produs": "2D3E4F",
+            "denumire": "MSS3000",
+            "brand": "Duevelsdorf",
+            "categorie": "Leveler",
+            "pentru": "Altele",
+            "descriere": "Width working : 3M",
+            "pret": "2000"
+          },
+          {
+            "cod_produs": "5G6H7I",
+            "denumire": "MSS3700",
+            "brand": "Duevelsdorf",
+            "categorie": "Leveler",
+            "pentru": "Altele",
+            "descriere": "Width working : 3.7M",
+            "pret": "2500"
+          },
+          {
+            "cod_produs": "8J9K0L",
+            "denumire": "2600",
+            "brand": "Duevelsdorf",
+            "categorie": "SiloCompaction",
+            "pentru": "Altele",
+            "descriere": "Width working : 2.6M",
+            "pret": "3000"
+          },
+          {
+            "cod_produs": "1M2N3O",
+            "denumire": "3000",
+            "brand": "Duevelsdorf",
+            "categorie": "SiloCompaction",
+            "pentru": "Altele",
+            "descriere": "Width working : 3M",
+            "pret": "3500"
+          },
+          {
+            "cod_produs": "4P5Q6R",
+            "denumire": "AeroStarExact600",
+            "brand": "Einboeck",
+            "categorie": "Weeder",
+            "pentru": "Baler",
+            "descriere": "Power Required : 650Hp , Witdh Working : 6M",
+            "pret": "13500"
+          },
+          {
+            "cod_produs": "7S8T9U",
+            "denumire": "ChopStar590RowGuard",
+            "brand": "Einboeck",
+            "categorie": "Weeder",
+            "pentru": "Baler",
+            "descriere": "Power Required : 140Hp , Width Working : 9M",
+            "pret": "16000"
+          },
+          {
+            "cod_produs": "2V3W4X",
+            "denumire": "PneumaticStar900",
+            "brand": "Einboeck",
+            "categorie": "Weeder",
+            "pentru": "Baler",
+            "descriere": "Power Required : 90Hp , Width Working : 9M , Capacity : 300L",
+            "pret": "17000"
+          },
+          {
+            "cod_produs": "5Y6Z7A",
+            "denumire": "PneumaticStarPro1200",
+            "brand": "Einboeck",
+            "categorie": "Weeder",
+            "pentru": "Baler",
+            "descriere": "Power Required : 170Hp , Width Working : 12M , Capacity : 300L",
+            "pret": "23500"
+          },
+          {
+            "cod_produs": "8B9C0D",
+            "denumire": "Duett7300",
+            "brand": "Elho",
+            "categorie": "Mowers",
+            "pentru": "Baler",
+            "descriere": "Power Required : 180Hp , Width working : 7.3M",
+            "pret": "13800"
+          },
+          {
+            "cod_produs": "1E2F3G",
+            "denumire": "Haulmaster",
+            "brand": "ElmersMfg",
+            "categorie": "AugerWagons",
+            "pentru": "Wagon",
+            "descriere": "Power Required : 400Hp , Capacity : 46000L",
+            "pret": "40000"
+          },
+          {
+            "cod_produs": "4H5I6J",
+            "denumire": "PF224Plus",
+            "brand": "Faresin",
+            "categorie": "Animals",
+            "pentru": "Animale",
+            "descriere": "Power Required : 120Hp , Capacity : 24000L",
+            "pret": "20000"
+          },
+          {
+            "cod_produs": "7K8L9M",
+            "denumire": "Kompaktomat1570Max",
+            "brand": "Farmet",
+            "categorie": "Cultivator",
+            "pentru": "PrelucrareSol",
+            "descriere": "Power Required : 500Hp , Width Working : 15.7M",
+            "pret": "27000"
+          },
+          {
+            "cod_produs": "3N4O5P",
+            "denumire": "Fortis3000",
+            "brand": "Farmtech",
+            "categorie": "Trailers",
+            "pentru": "Remorci",
+            "descriere": "Width working : 24M , Capacity : 45000L",
+            "pret": "29400"
+          },
+          {
+            "cod_produs": "6Q7R8S",
+            "denumire": "VarioFex750",
+            "brand": "Farmtech",
+            "categorie": "SpreaderFertilizant",
+            "pentru": "UtilajeFertilizat",
+            "descriere": "Width Working 8M , Power Required 94HP , Capacity : 4900L",
+            "pret": "18000"
+          },
+          {
+            "cod_produs": "9T0U1V",
+            "denumire": "Supercis800",
+            "brand": "Farmtech",
+            "categorie": "SlurryTanks",
+            "pentru": "Animale",
+            "descriere": "Power Required : 80Hp , Width Working : 15M , Capacity : 8200L",
+            "pret": "22000"
+          },
+          {
+            "cod_produs": "2W3X4Y",
+            "denumire": "Polycis1550",
+            "brand": "Farmtech",
+            "categorie": "SlurryTanks",
+            "pentru": "Animale",
+            "descriere": "Power Required : 165Hp , Width working : 15M , Capacity : 15500",
+            "pret": "30000"
+          },
+          {
+            "cod_produs": "5Z6A7B",
+            "denumire": "DPW1800",
+            "brand": "Farmtech",
+            "categorie": "BaleLoaders",
+            "pentru": "Baler",
+            "descriere": "-",
+            "pret": "10000"
+          },
+          {
+            "cod_produs": "8C9D0E",
+            "denumire": "IdealParalevel",
+            "brand": "Fendt",
+            "categorie": "CombinaG",
+            "pentru": "Combine",
+            "descriere": "Power 451HP , Speed 40KM/H , Capacity : 12500L",
+            "pret": "97500"
+          },
+          {
+            "cod_produs": "1F2G3H",
+            "denumire": "Ideal",
+            "brand": "Fendt",
+            "categorie": "CombinaG",
+            "pentru": "Combine",
+            "descriere": "Power 451HP , Speed 40KM/H , Capacity : 12500L",
+            "pret": "110000"
+          },
+          {
+            "cod_produs": "4I5J6K",
+            "denumire": "Katana650",
+            "brand": "Fendt",
+            "categorie": "CombinaF",
+            "pentru": "Combine",
+            "descriere": "Power 650HP , Speed 40KM/H , Capacity 20L",
+            "pret": "100000"
+          },
+          {
+            "cod_produs": "7L8M9N",
+            "denumire": "PowerFlow30FT",
+            "brand": "Fendt",
+            "categorie": "Header",
+            "pentru": "Headere",
+            "descriere": "Width working : 9.2M",
+            "pret": "28500"
+          },
+          {
+            "cod_produs": "2O3P4Q",
+            "denumire": "PowerFLow40FT",
+            "brand": "Fendt",
+            "categorie": "Header",
+            "pentru": "Headere",
+            "descriere": "Width working : 12M",
+            "pret": "33000"
+          },
+          {
+            "cod_produs": "5R6S7T",
+            "denumire": "DynaFlex925540FT",
+            "brand": "Fendt",
+            "categorie": "Header",
+            "pentru": "Headere",
+            "descriere": "Width working : 12M",
+            "pret": "33300"
+          },
+          {
+            "cod_produs": "8U9V0W",
+            "denumire": "Rotana160VCombi",
+            "brand": "Fendt",
+            "categorie": "Balotiera",
+            "pentru": "Baler",
+            "descriere": "Power Required : 140Hp",
+            "pret": "25000"
+          },
+          {
+            "cod_produs": "1X2Y3Z",
+            "denumire": "Squadra1290NUD",
+            "brand": "Fendt",
+            "categorie": "Balotiera",
+            "pentru": "Baler",
+            "descriere": "Power Required : 275Hp",
+            "pret": "32000"
+          },
+          {
+            "cod_produs": "4A5B6C",
+            "denumire": "ASW271",
+            "brand": "Fliegl",
+            "categorie": "Trailers",
+            "pentru": "Remorci",
+            "descriere": "Width Working : 12M , Capacity : 26000L",
+            "pret": "20000"
+          },
+          {
+            "cod_produs": "7D8E9F",
+            "denumire": "TMK273",
+            "brand": "Fliegl",
+            "categorie": "Trailers",
+            "pentru": "Remorci",
+            "descriere": "Capacity : 40000L",
+            "pret": "25000"
+          },
+          {
+            "cod_produs": "2G3H4I",
+            "denumire": "PFW18000MaxxLine",
+            "brand": "Fliegl",
+            "categorie": "SlurryTanks",
+            "pentru": "Animale",
+            "descriere": "Power Required : 225Hp , Width Working : 15M , Capacity : 18000L",
+            "pret": "29500"
+          },
+          {
+            "cod_produs": "5J6K7L",
+            "denumire": "Schmetterling",
+            "brand": "Fliegl",
+            "categorie": "BaleLoaders",
+            "pentru": "Baler",
+            "descriere": "Width working : 3M",
+            "pret": "2000"
+          },
+          {
+            "cod_produs": "8M9N0O",
+            "denumire": "TimberRunner",
+            "brand": "Fliegl",
+            "categorie": "ForestrTransporting",
+            "pentru": "Forestry",
+            "descriere": "-",
+            "pret": "30000"
+          },
+          {
+            "cod_produs": "1P2Q3R",
+            "denumire": "NoahTTW140",
+            "brand": "Fliegl",
+            "categorie": "AnimalsTransport",
+            "pentru": "Animale",
+            "descriere": "-",
+            "pret": "25000"
+          },
+          {
+            "cod_produs": "4S5T6U",
+            "denumire": "SilageRoller",
+            "brand": "Fliegl",
+            "categorie": "SiloCompaction",
+            "pentru": "Altele",
+            "descriere": "Width working : 2.8M",
+            "pret": "3000"
+          },
+          {
+            "cod_produs": "7V8W9X",
+            "denumire": "Ruby2000",
+            "brand": "Fliegl",
+            "categorie": "FrontLoadersA",
+            "pentru": "Manipulatoare",
+            "descriere": "Capacity : 2300L",
+            "pret": "2000"
+          },
+          {
+            "cod_produs": "3Y4Z5A",
+            "denumire": "DTS59",
+            "brand": "Fliegl",
+            "categorie": "LowLoaders",
+            "pentru": "Remorci",
+            "descriere": "-",
+            "pret": "16500"
+          },
+          {
+            "cod_produs": "6B7C8D",
+            "denumire": "SingleRowBilletPlanter",
+            "brand": "Gessner",
+            "categorie": "SugarcaneHeader",
+            "pentru": "Headere",
+            "descriere": "Power Required : 190Hp , Width Working : 1M , Capacity : 4990L",
+            "pret": "32000"
+          },
+          {
+            "cod_produs": "9E0F1G",
+            "denumire": "TwoRowBilletPlanter",
+            "brand": "Gessner",
+            "categorie": "SugarcaneHeader",
+            "pentru": "Headere",
+            "descriere": "Power Required : 200Hp , Width Working : 2M , Capacity : 9440L",
+            "pret": "35000"
+          },
+          {
+            "cod_produs": "2H3I4J",
+            "denumire": "Ventor4150",
+            "brand": "Grimme",
+            "categorie": "CombinaP",
+            "pentru": "Combine",
+            "descriere": "Power 530HP , Speed 25KM/H , Capacity 22500L",
+            "pret": "125000"
+          },
+          {
+            "cod_produs": "5K6L7M",
+            "denumire": "Rexor6300Platinum",
+            "brand": "Grimme",
+            "categorie": "CombinaB",
+            "pentru": "Combine",
+            "descriere": "Power 653HP , Speed 40KM/H , Capacity 45000L",
+            "pret": "140000"
+          },
+          {
+            "cod_produs": "8N9O0P",
+            "denumire": "GL420",
+            "brand": "Grimme",
+            "categorie": "PotatoHeader",
+            "pentru": "Headere",
+            "descriere": "Power Required : 150Hp , Width working : 3M , Capacity : 2665L",
+            "pret": "20000"
+          },
+          {
+            "cod_produs": "1Q2R3S",
+            "denumire": "GL850Compacta",
+            "brand": "Grimme",
+            "categorie": "PotatoHeader",
+            "pentru": "Headere",
+            "descriere": "Power Required : 170Hp , Width working : 6M , Capacity : 8000L",
+            "pret": "30000"
+          },
+          {
+            "cod_produs": "4T5U6V",
+            "denumire": "KS754",
+            "brand": "Grimme",
+            "categorie": "PotatoHeader",
+            "pentru": "Headere",
+            "descriere": "Power Required : 65Hp , Width Working : 3.2M",
+            "pret": "8500"
+          },
+          {
+            "cod_produs": "7W8X9Y",
+            "denumire": "EVO290",
+            "brand": "Grimme",
+            "categorie": "PotatoHeader",
+            "pentru": "Headere",
+            "descriere": "Power Required : 200Hp , Width working : 1.5M , Capacity : 12000L",
+            "pret": "34000"
+          },
+          {
+            "cod_produs": "2Z3A4B",
+            "denumire": "FT300",
+            "brand": "Grimme",
+            "categorie": "BeetHeader",
+            "pentru": "Headere",
+            "descriere": "Power Required : 55Hp , Width Working : 3M",
+            "pret": "9200"
+          },
+          {
+            "cod_produs": "5C6D7E",
+            "denumire": "Rootster604",
+            "brand": "Grimme",
+            "categorie": "BeetHeader",
+            "pentru": "Headere",
+            "descriere": "Power Required : 185Hp , Width working : 3M , Capacity : 6000L",
+            "pret": "36000"
+          },
+          {
+            "cod_produs": "8F9G0H",
+            "denumire": "TC816",
+            "brand": "Grimme",
+            "categorie": "Misc",
+            "pentru": "Altele",
+            "descriere": "Power 5HP , Speed 5KM/H",
+            "pret": "10000"
+          },
+          {
+            "cod_produs": "1I2J3K",
+            "denumire": "Rh2460",
+            "brand": "Grimme",
+            "categorie": "Misc",
+            "pentru": "Altele",
+            "descriere": "Capacity : 13000L",
+            "pret": "15000"
+          },
+          {
+            "cod_produs": "4L5M6N",
+            "denumire": "SL8022Quantum",
+            "brand": "Grimme",
+            "categorie": "Misc",
+            "pentru": "Altele",
+            "descriere": "Power 5HP , Speed 5KM/H",
+            "pret": "10000"
+          },
+          {
+            "cod_produs": "7O8P9Q",
+            "denumire": "Mega1200LTank",
+            "brand": "Hardi",
+            "categorie": "SpreaderFertilizant",
+            "pentru": "UtilajeFertilizat",
+            "descriere": "Capacity : 1500L",
+            "pret": "5000"
+          },
+          {
+            "cod_produs": "2R3S4T",
+            "denumire": "Mega1200L",
+            "brand": "Hardi",
+            "categorie": "SpreaderFertilizant",
+            "pentru": "UtilajeFertilizat",
+            "descriere": "Width working : 24M , Capacity : 1200L",
+            "pret": "19000"
+          },
+          {
+            "cod_produs": "5U6V7W",
+            "denumire": "Navigator4000DeltaForce",
+            "brand": "Hardi",
+            "categorie": "SpreaderFertilizant",
+            "pentru": "UtilajeFertilizat",
+            "descriere": "Width working : 27M , Capacity : 4000L",
+            "pret": "24000"
+          },
+          {
+            "cod_produs": "8X9Y0Z",
+            "denumire": "Commander4500DeltaForce",
+            "brand": "Hardi",
+            "categorie": "SpreaderFertilizant",
+            "pentru": "UtilajeFertilizat",
+            "descriere": "Width working : 27M , Capacity : 4500L",
+            "pret": "26000"
+          },
+          {
+            "cod_produs": "1A2B3C",
+            "denumire": "Aeon5200DeltaForce",
+            "brand": "Hardi",
+            "categorie": "SpreaderFertilizant",
+            "pentru": "UtilajeFertilizat",
+            "descriere": "Width working : 27M , Capacity : 5200L",
+            "pret": "28500"
+          },
+          {
+            "cod_produs": "4D5E6F",
+            "denumire": "ULW4000",
+            "brand": "Hawe",
+            "categorie": "AugerWagons",
+            "pentru": "Wagon",
+            "descriere": "Power Required : 350Hp , Capacity : 43000L",
+            "pret": "30000"
+          },
+          {
+            "cod_produs": "7G8H9I",
+            "denumire": "SUW5000",
+            "brand": "Hawe",
+            "categorie": "AugerWagons",
+            "pentru": "Wagon",
+            "descriere": "Power Required : 280Hp , Capacity : 50000L",
+            "pret": "32000"
+          },
+          {
+            "cod_produs": "2J3K4L",
+            "denumire": "KUW2000",
+            "brand": "Hawe",
+            "categorie": "AugerWagons",
+            "pentru": "Wagon",
+            "descriere": "Power 240HP , Capacity 24000L",
+            "pret": "24000"
+          },
+          {
+            "cod_produs": "5M6N7O",
+            "denumire": "DST16",
+            "brand": "Hawe",
+            "categorie": "SpreaderFertilizant",
+            "pentru": "UtilajeFertilizat",
+            "descriere": "Power Required : 150Hp , Width working : 12M , Capacity : 16500L",
+            "pret": "24700"
+          },
+          {
+            "cod_produs": "8P9Q0R",
+            "denumire": "Rumbler",
+            "brand": "Lizard",
+            "categorie": "Mods",
+            "pentru": "Mods",
+            "descriere": "Power 190HP",
+            "pret": "34000"
+          },
+          {
+            "cod_produs": "1S2T3U",
+            "denumire": "6460",
+            "brand": "Kamaz",
+            "categorie": "Mods",
+            "pentru": "Mods",
+            "descriere": "Power 360HP",
+            "pret": "41000"
+          },
+          {
+            "cod_produs": "4V5W6X",
+            "denumire": "Ranger2024",
+            "brand": "Ford",
+            "categorie": "Mods",
+            "pentru": "Mods",
+            "descriere": "Power 400",
+            "pret": "58000"
+          },
+          {
+            "cod_produs": "7Y8Z9A",
+            "denumire": "pasa",
+            "brand": "lopata",
+            "categorie": "Mods",
+            "pentru": "Mods",
+            "descriere": "Lopata de gunoier",
+            "pret": "300"
+          },
+          {
+            "cod_produs": "2B3C4D",
+            "denumire": "Coasa",
+            "brand": "Coasa",
+            "categorie": "Mods",
+            "pentru": "Mods",
+            "descriere": "Coasa de cosit",
+            "pret": "600"
+          },
+          {
+            "cod_produs": "5E6F7G",
+            "denumire": "Aparat",
+            "brand": "Plantat_Copaci",
+            "categorie": "Mods",
+            "pentru": "Mods",
+            "descriere": "Aparat manual de plantat copaci",
+            "pret": "1000"
+          },
+          {
+            "cod_produs": "8H9I0J",
+            "denumire": "Cultura",
+            "brand": "Plantat",
+            "categorie": "Mods",
+            "pentru": "Mods",
+            "descriere": "Aparat de plantat culturi manual",
+            "pret": "1000"
+          },
+          {
+            "cod_produs": "1K2L3M",
+            "denumire": "Pajero",
+            "brand": "Mitsubishi",
+            "categorie": "Mods",
+            "pentru": "Mods",
+            "descriere": "Power 300HP",
+            "pret": "33000"
+          },
+          {
+            "cod_produs": "4N5O6P",
+            "denumire": "Logan",
+            "brand": "Dacia",
+            "categorie": "Mods",
+            "pentru": "Mods",
+            "descriere": "Power 90HP",
+            "pret": "25000"
+          },
+          {
+            "cod_produs": "7Q8R9S",
+            "denumire": "TGS185004x4",
+            "brand": "Man",
+            "categorie": "CatC",
+            "pentru": "CatC",
+            "descriere": "Power 500HP , Speed 80KM/h",
+            "pret": "68500"
+          },
+          {
+            "cod_produs": "2T3U4V",
+            "denumire": "Pickup1986",
+            "brand": "Lizard",
+            "categorie": "CatB",
+            "pentru": "CatB",
+            "descriere": "Power 200HP",
+            "pret": "31000"
+          },
+          {
+            "cod_produs": "5W6X7Y",
+            "denumire": "Pickup2017",
+            "brand": "Lizard",
+            "categorie": "CatB",
+            "pentru": "CatB",
+            "descriere": "Power 300HP",
+            "pret": "41500"
+          },
+          {
+            "cod_produs": "8Z9A0B",
+            "denumire": "MKS32",
+            "brand": "Lizard",
+            "categorie": "Trailers",
+            "pentru": "Remorci",
+            "descriere": "Capacity 32000L",
+            "pret": "40500"
+          },
+          {
+            "cod_produs": "1C2D3E",
+            "denumire": "MKS8",
+            "brand": "Lizard",
+            "categorie": "Trailers",
+            "pentru": "Remorci",
+            "descriere": "Capacity 8000L",
+            "pret": "18000"
+          },
+          {
+            "cod_produs": "4F5G6H",
+            "denumire": "Prolander7500",
+            "brand": "Kuhn",
+            "categorie": "Cultivator",
+            "pentru": "PrelucrareSol",
+            "descriere": "Power Required : 250HP , Working Width : 7.5 M",
+            "pret": "21500"
+          },
+          {
+            "cod_produs": "7I8J9K",
+            "denumire": "HR4040Venta4030",
+            "brand": "Kuhn",
+            "categorie": "Seeder",
+            "pentru": "PrelucrareSol",
+            "descriere": "Power Required : 220HP , Working Width : 4M",
+            "pret": "15600"
+          },
+          {
+            "cod_produs": "2L3M4N",
+            "denumire": "TGX18500",
+            "brand": "Man",
+            "categorie": "Mods",
+            "pentru": "Mods",
+            "descriere": "Power : 500HP",
+            "pret": "69500"
+          },
+          {
+            "cod_produs": "5O6P7Q",
+            "denumire": "Daily35",
+            "brand": "Iveco",
+            "categorie": "Mods",
+            "pentru": "Mods",
+            "descriere": "Power : 160HP",
+            "pret": "34000"
+          },
+          {
+            "cod_produs": "5O687Q",
+            "denumire": "S710",
+            "brand": "Lizard",
+            "categorie": "Misc",
+            "pentru": "Altele",
+            "descriere": "Power : 5HP",
+            "pret": "5000"
+          },
+          {
+            "cod_produs": "7B6P7Q",
+            "denumire": "TL1239",
+            "brand": "Meridian",
+            "categorie": "Misc",
+            "pentru": "Altele",
+            "descriere": "Power : 5HP",
+            "pret": "16000"
+          },
+          {
+            "cod_produs": "09JHNW",
+            "denumire": "HM8400KLC",
+            "brand": "Heizomat",
+            "categorie": "ForestryChop",
+            "pentru": "Forestry",
+            "descriere": "Power Required : 200Hp , Capacity : 16000L",
+            "pret": "45000"
+          },
+          {
+            "cod_produs": "78snKH2",
+            "denumire": "SKS301050",
+            "brand": "Krampe",
+            "categorie": "Trailers",
+            "pentru": "Remorci",
+            "descriere": "Capacity 59400L",
+            "pret": "40000"
+          },
+          {
+            "cod_produs": "892HGY",
+            "denumire": "Trailer",
+            "brand": "Krone",
+            "categorie": "Trailers",
+            "pentru": "Remorci",
+            "descriere": "Platforma autoload",
+            "pret": "34000"
+          },
+          {
+            "cod_produs": "MN24OS",
+            "denumire": "DK115",
+            "brand": "Welger",
+            "categorie": "Trailers",
+            "pentru": "Remorci",
+            "descriere": "Capacity : 8000L",
+            "pret": "12000"
+          },
+          {
+            "cod_produs": "783HGB",
+            "denumire": "Boxer",
+            "brand": "Peugeot",
+            "categorie": "Mods",
+            "pentru": "Mods",
+            "descriere": "Power 160HP",
+            "pret": "36700"
+          },
+          {
+            "cod_produs": "MKS321",
+            "denumire": "Kangoo",
+            "brand": "Renault",
+            "categorie": "Mods",
+            "pentru": "Mods",
+            "descriere": "Power 130HP",
+            "pret": "26000"
+          },
+          {
+            "cod_produs": "o2913j",
+            "denumire": "244",
+            "brand": "Star",
+            "categorie": "Mods",
+            "pentru": "Mods",
+            "descriere": "Power 150HP , Capacity 6000L",
+            "pret": "39500"
+          },
+          {
+            "cod_produs": "231HJS",
+            "denumire": "SolarMic",
+            "brand": "FarmingSimulator",
+            "categorie": "Cladire",
+            "pentru": "Altele",
+            "descriere": "Solar mic",
+            "pret": "8500"
+          },
+          {
+            "cod_produs": "241Nks",
+            "denumire": "SolarMediu",
+            "brand": "FarmingSimulator",
+            "categorie": "Cladire",
+            "pentru": "Altele",
+            "descriere": "Solar Mediu",
+            "pret": "13200"
+          },
+          {
+            "cod_produs": "2NJ2ks",
+            "denumire": "SolarMare",
+            "brand": "FarmingSimulator",
+            "categorie": "Cladire",
+            "pentru": "Altele",
+            "descriere": "Solar Mare",
+            "pret": "18200"
+          },
+          {
+            "cod-produs": "213msda",
+            "denumire": "Premium",
+            "brand": "Renault",
+            "categorie": "Mods",
+            "pentru": "Mods",
+            "descriere": "Capacity 23200L , Power 330HP",
+            "pret": "53500"
+          },
+          {
+            "cod-produs": "JU28SA",
+            "denumire": "Aquatrans7300S",
+            "brand": "Joskin",
+            "categorie": "Trailers",
+            "pentru": "Remorci",
+            "descriere": "Capacity 7300L",
+            "pret": "9800"
+          },
+          {
+            "cod-produs": "BENZ992",
+            "denumire": "SprinterMK3",
+            "brand": "Mercedes",
+            "categorie": "Mods",
+            "pentru": "Mods",
+            "descriere": "Power 190HP, Autoload",
+            "pret": "40000"
+          },
+          {
+            "cod-produs": "h82JSN",
+            "denumire": "BC1500Chipper",
+            "brand": "Vermeer",
+            "categorie": "Mods",
+            "pentru": "Mods",
+            "descriere": "Masinarie facut rumegus",
+            "pret": "30000"
+          },
+          {
+            "cod-produs": "XXX212",
+            "denumire": "8000Remorca",
+            "brand": "Romaneasca",
+            "categorie": "Mods",
+            "pentru": "Mods",
+            "descriere": "Capacity 8000L",
+            "pret": "4400"
+          },
+          {
+            "cod-produs": "82NSM21",
+            "denumire": "19000Remorca",
+            "brand": "Romaneasca",
+            "categorie": "Mods",
+            "pentru": "Mods",
+            "descriere": "Capacity 19000L",
+            "pret": "7000"
+          },
+          {
+            "cod-produs": "938MNS",
+            "denumire": "F240",
+            "brand": "SeppKnusel",
+            "categorie": "Mowers",
+            "pentru": "Baler",
+            "descriere": "Power Required : 40Hp , Width Working : 2.4M",
+            "pret": "6500"
+          },
+          {
+            "cod-produs": "JH27FS",
+            "denumire": "GMD4411",
+            "brand": "Kuhn",
+            "categorie": "Mowers",
+            "pentru": "Baler",
+            "descriere": "Power Required : 80Hp , Width Working : 4.4M",
+            "pret": "8600"
+          },
+          {
+            "cod-produs": "wiq7roa",
+            "denumire": "GMD3123F",
+            "brand": "Kuhn",
+            "categorie": "Mowers",
+            "pentru": "Baler",
+            "descriere": "Power Required : 60Hp , Witdh Working : 3.1",
+            "pret": "7850"
+          },
+          {
+            "cod-produs": "sr9132",
+            "denumire": "GMD8730FF",
+            "brand": "Kuhn",
+            "categorie": "Mowers",
+            "pentru": "Baler",
+            "descriere": "Power Required : 120Hp , Width working : 8.3M",
+            "pret": "15000"
+          },
+          {
+            "cod-produs": "wrqkio1",
+            "denumire": "NovaCat301AMEDPRo",
+            "brand": "Poettinger",
+            "categorie": "Mowers",
+            "pentru": "Baler",
+            "descriere": "Power Required : 70Hp , Width working : 3.1M",
+            "pret": "7600"
+          },
+          {
+            "cod-produs": "872dbsaj2",
+            "denumire": "NovacatA10CrossFlow",
+            "brand": "Poettinger",
+            "categorie": "Mowers",
+            "pentru": "Baler",
+            "descriere": "Power Required : 160Hp , Width working : 10M",
+            "pret": "16800"
+          },
+          {
+            "cod-produs": "389urh2",
+            "denumire": "Top342",
+            "brand": "Poettinger",
+            "categorie": "Windrower",
+            "pentru": "Baler",
+            "descriere": "Power Required : 35Hp , Width working : 3.4M",
+            "pret": "4500"
+          },
+          {
+            "cod-produs": "21f31231",
+            "denumire": "Impress125FPro",
+            "brand": "Poettinger",
+            "categorie": "Balotiera",
+            "pentru": "Baler",
+            "descriere": "Power Required : 100Hp",
+            "pret": "10600"
+          },
+          {
+            "cod-produs": "2d123btjl",
+            "denumire": "Impress185VCPRo",
+            "brand": "Poettinger",
+            "categorie": "Balotiera",
+            "pentru": "Baler",
+            "descriere": "Power Required : 150Hp",
+            "pret": "26000"
+          },
+          {
+            "cod-produs": "sadf421c",
+            "denumire": "Z2840H",
+            "brand": "Samasz",
+            "categorie": "Windrower",
+            "pentru": "Baler",
+            "descriere": "Power Required : 80Hp , Width Working : 8.4M",
+            "pret": "14700"
+          },
+          {
+            "cod-produs": "28hfj7912",
+            "denumire": "ActrosMP3",
+            "brand": "Mercedes",
+            "categorie": "Mods",
+            "pentru": "Mods",
+            "descriere": "Power 598HP",
+            "pret": "72000"
+          },
+          {
+            "cod-produs": "fh576w",
+            "denumire": "StorageShed",
+            "brand": "FarmingSimulator",
+            "categorie": "Cladire",
+            "pentru": "Altele",
+            "descriere": "Garaj cu vehicle workshop",
+            "pret": "30000"
+          },
+          {
+            "cod-produs": "AS121sad",
+            "denumire": "105XF",
+            "brand": "Daf",
+            "categorie": "Mods",
+            "pentru": "Mods",
+            "descriere": "Power 410HP , Speed 85KM/h",
+            "pret": "70000"
+          },
+          {
+            "cod-produs": "2131sasd",
+            "denumire": "Bariera",
+            "brand": "",
+            "categorie": "Cladire",
+            "pentru": "Altele",
+            "descriere": "Bariera intrare proprietate",
+            "pret": "3500"
+          },
+          {
+            "cod-produs": "NJA28sj",
+            "denumire": "SemneFirma",
+            "brand": "",
+            "categorie": "Cladire",
+            "pentru": "Altele",
+            "descriere": "Semne pentru identificare firma/proprietate",
+            "pret": "1000"
+          },
+          {
+            "cod-produs": "xz32s",
+            "denumire": "6510Dump",
+            "brand": "Maz",
+            "categorie": "Mods",
+            "pentru": "Mods",
+            "descriere": "Power 420Hp , Capacity 20000L",
+            "pret": "56000"
+          },
+          {
+            "cod-produs": "dasnr298",
+            "denumire": "WoodTruck",
+            "brand": "Maz",
+            "categorie": "Mods",
+            "pentru": "Mods",
+            "descriere": "400HP",
+            "pret": "64000"
+          },
+          {
+            "cod-produs": "DKH271",
+            "denumire": "RumblerTowCar",
+            "brand": "Lizard",
+            "categorie": "Mods",
+            "pentru": "Mods",
+            "descriere": "Power 300HP",
+            "pret": "31500"
+          },
+          {
+            "cod-produs": "b41J28",
+            "denumire": "RTV",
+            "brand": "Lizard",
+            "categorie": "Mods",
+            "pentru": "Mods",
+            "descriere": "Power 83HP",
+            "pret": "18000"
+          },
+          {
+            "cod-produs": "28snaj",
+            "denumire": "LogTrailer",
+            "brand": "Maz",
+            "categorie": "Mods",
+            "pentru": "Mods",
+            "descriere": "6M Log Trailer",
+            "pret": "20000"
+          },
+          {
+            "cod-produs": "zba7ask",
+            "denumire": "FH16",
+            "brand": "Volvo",
+            "categorie": "Mods",
+            "pentru": "Mods",
+            "descriere": "Power 550HP",
+            "pret": "74500"
+          },
+          {
+            "cod-produs": "sg3421zs",
+            "denumire": "MegaLight",
+            "brand": "Krampe",
+            "categorie": "Mods",
+            "pentru": "Mods",
+            "descriere": "Capacity 60000L",
+            "pret": "42000"
+          },
+          {
+            "cod-produs": "cxz21",
+            "denumire": "TankLiquid",
+            "brand": "Giuri",
+            "categorie": "Mods",
+            "pentru": "Mods",
+            "descriere": "Capacity 1000L",
+            "pret": "3200"
+          },
+          {
+            "cod-produs": "uzina12031",
+            "denumire": "LimeFactory",
+            "brand": "FarmingSimulator",
+            "categorie": "Cladire",
+            "pentru": "Altele",
+            "descriere": "Fabrica de lime - piatra",
+            "pret": "210000"
+          },
+          {
+            "cod-produs": "gain21sa",
+            "denumire": "TarcGainiMic",
+            "brand": "FarmingSimulator",
+            "categorie": "Cladire",
+            "pentru": "Altele",
+            "descriere": "Tarc de gaini - Maxim 500",
+            "pret": "6500"
+          },
+          {
+            "cod-produs": "sadazz3",
+            "denumire": "GarajCuMecanic",
+            "brand": "FarmingSimulator",
+            "categorie": "Cladire",
+            "pentru": "Altele",
+            "descriere": "Garaj cu workshop incorporat",
+            "pret": "25000"
+          },
+          {
+            "cod-produs": "che231s",
+            "denumire": "Silverado2500HD",
+            "brand": "Chevrolet",
+            "categorie": "Mods",
+            "pentru": "Mods",
+            "descriere": "Power 300HP",
+            "pret": "42000"
+          },
+          {
+            "cod-produs": "alb123",
+            "denumire": "StupMediu",
+            "brand": "FarmingSimulator",
+            "categorie": "Cladire",
+            "pentru": "Altele",
+            "descriere": "Stup Mediu",
+            "pret": "3500"
+          },
+          {
+            "cod-produs": "alb1234",
+            "denumire": "StupMare",
+            "brand": "FarmingSimulator",
+            "categorie": "Cladire",
+            "pentru": "Altele",
+            "descriere": "Stup Mare",
+            "pret": "7000"
+          },
+          {
+            "cod-produs": "molan123",
+            "denumire": "PrelucrareMolani",
+            "brand": "FarmingSimulator",
+            "categorie": "Cladire",
+            "pentru": "Altele",
+            "descriere": "Fabrica de conservarie de molani",
+            "pret": "50000"
+          },
+          {
+            "cod-produs": "sa12faszx12",
+            "denumire": "NPR2018",
+            "brand": "Isuzu",
+            "categorie": "Mods",
+            "pentru": "Mods",
+            "descriere": "Autoload , Power 215HP",
+            "pret": "51500"
+          },
+          {
+            "cod-produs": "vwman213",
+            "denumire": "Tge2018Platform",
+            "brand": "Volkswagen",
+            "categorie": "Mods",
+            "pentru": "Mods",
+            "descriere": "Platforma",
+            "pret": "48500"
+          },
+          {
+            "cod-produs": "case1e231",
+            "denumire": "MX150",
+            "brand": "Case",
+            "categorie": "Mods",
+            "pentru": "Mods",
+            "descriere": "100HP",
+            "pret": "32000"
+          },
+          {
+            "cod-produs": "josk1231asd",
+            "denumire": "Aquatrans7300S",
+            "brand": "Joskin",
+            "categorie": "Animals",
+            "pentru": "Animale",
+            "descriere": "Capacity 7300L",
+            "pret": "24500"
+          },
+          {
+            "cod-produs": "",
+            "denumire": "",
+            "brand": "",
+            "categorie": "",
+            "pentru": "",
+            "descriere": "",
+            "pret": ""
+          },
+          {
+            "cod-produs": "",
+            "denumire": "",
+            "brand": "",
+            "categorie": "",
+            "pentru": "",
+            "descriere": "",
+            "pret": ""
+          },
+          {
+            "cod-produs": "",
+            "denumire": "",
+            "brand": "",
+            "categorie": "",
+            "pentru": "",
+            "descriere": "",
+            "pret": ""
+          }
+          
+          
+          
+          
+          
+          
+          
+  ]
+}

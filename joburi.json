@@ -1,0 +1,30 @@
+[
+    {
+        "denumire_job": "Padurar",
+        "salariu_de_baza": "2500",
+        "scolarizare": "DA",
+        "descriere": "Actiuni de exploatare forstiera, doborari arbori, marcare arbori, transport lemne, paza forestiera",
+        "cerinte" : "permis_cat_B,permic_cat_C,permis_cat_E,examen_padurar"
+    },
+    {
+        "denumire_job": "Ajutor Primarie",
+        "salariu_de_baza": "2200",
+        "scolarizare": "DA",
+        "descriere": "Actiuni forestiere(minimum), agricole(orice din domeniul agricol), paza, transport",
+        "cerinte" : "permis_cat_B,permis_cat_C,permis_cat_E,atestat_gabaritic,atestat_ADR"
+    },
+    {
+        "denumire_job" : "Muncitor Industrial",
+        "salariu_de_baza": "2900",
+        "scolarizare": "DA",
+        "descriere": "Actiuni la fabrici si uzine -> alimentare , transport , aprovizionare , depozitare",
+        "cerinte" : "permis_cat_B,permis_cat_C,permis_cat_E,atestat_gabaritic,atestat_ADR"
+    },
+    {
+        "denumire_job": "Patron Firma",
+        "salariu_de_baza": "-",
+        "scolarizare": "NU",
+        "descriere": "Firma Personala",
+        "cerinte": ""
+    }
+]
